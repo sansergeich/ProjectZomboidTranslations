@@ -1,12 +1,12 @@
-EvolvedRecipeName_EN = {
-	EvolvedRecipeName_Base.CannedBologneseOpen = "Canned Bolognese",
-	EvolvedRecipeName_Base.CannedCarrotsOpen = "Canned Carrots",
-	EvolvedRecipeName_Base.CannedChiliOpen = "Canned Chili",
-	EvolvedRecipeName_Base.CannedCornOpen = "Canned Corn",
-	EvolvedRecipeName_Base.CannedCornedBeefOpen = "Canned Corned Beef",
-	EvolvedRecipeName_Base.CannedPeasOpen = "Canned Peas",
-	EvolvedRecipeName_Base.CannedPotatoOpen = "Canned Potato",
-	EvolvedRecipeName_Base.CannedSardinesOpen = "Canned Sardines",
-	EvolvedRecipeName_Base.CannedTomatoOpen = "Canned Tomato",
-	EvolvedRecipeName_Base.Teabag2 = "Tea",
+EvolvedRecipeName_BE = {
+	EvolvedRecipeName_Base.CannedBologneseOpen = "Кансерваваная баланьеза",
+	EvolvedRecipeName_Base.CannedCarrotsOpen = "Кансерваваная морква",
+	EvolvedRecipeName_Base.CannedChiliOpen = "Кансерваваны чылі",
+	EvolvedRecipeName_Base.CannedCornOpen = "Кансерваваная кукуруза",
+	EvolvedRecipeName_Base.CannedCornedBeefOpen = "Кансерваваная саланіна",
+	EvolvedRecipeName_Base.CannedPeasOpen = "Кансерваваны гарох",
+	EvolvedRecipeName_Base.CannedPotatoOpen = "Кансерваваная бульба",
+	EvolvedRecipeName_Base.CannedSardinesOpen = "Кансерваваныя сардзіны",
+	EvolvedRecipeName_Base.CannedTomatoOpen = "Кансерваваныя таматы",
+	EvolvedRecipeName_Base.Teabag2 = "Гарбата",
 }

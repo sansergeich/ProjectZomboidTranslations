@@ -1,5 +1,5 @@
-SurvivalGuide_EN = {
-	SurvivalGuide_entrie1title = "SURVIVAL GUIDE #1 - CONTROL YOURSELF",
+SurvivalGuide_BE = {
+	SurvivalGuide_entrie1title = "ІНСТРУКЦЫЯ ПА ВЫЖЫВАННІ #1 - КАНТРАЛЮЙ СЯБЕ",
 	SurvivalGuide_entrie1txt = " <CENTRE> <SIZE:medium> ZOMBOID SURVIVAL GUIDE <LINE> <SIZE:large> #1 - CONTROL YOURSELF <LINE> <IMAGECENTRE:media/ui/spiffo/control_yourself.png> <LINE> <SIZE:medium> You're not going to survive long if you don't take some deep breaths, and learn the basics.",
 	SurvivalGuide_entrie1moreinfo = " <H1> MOVEMENT <BR> <TEXT> To scamper around in Project Zomboid, use the WASD keys.  <BR> <IMAGECENTRE:media/ui/tutimages/walkwasd.png> <LINE> " ..
             " Hold LSHIFT key to scamper faster. <BR> <IMAGECENTRE:media/ui/tutimages/shiftrun.png> <LINE> <H1> "..
@@ -9,7 +9,7 @@ SurvivalGuide_EN = {
             "<H2> CONTEXT KEY <BR> <TEXT> Another way to interact is by pressing E. This will let you open doors and windows while in an attack stance. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/contextdoor.png> <LINE> This will allow for opening doors while in combat stance, for example. <BR>  <TEXT> Holding E will also let you interact in a secondary manner & generally in times of desperation. If you want to climb through a window while the zeds are following, for example, then E is your friend. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/contexthold.png> "..
             " <LINE> <H2> CONTEXT MENU <BR> <TEXT> More detailed interaction, such as crafting, can be accessed with a context menu that's triggered with RMB. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/contextmenu.png> <LINE> <TEXT> ",
 
-	SurvivalGuide_entrie2title = "SURVIVAL GUIDE #2 - DON'T RUN",
+	SurvivalGuide_entrie2title = "ІНСТРУКЦЫЯ ПА ВЫЖЫВАННІ #2 - НЕ БЯЖЫ",
 	SurvivalGuide_entrie2txt = " <CENTRE> <SIZE:medium> ZOMBOID SURVIVAL GUIDE <LINE> <SIZE:large> #2 - DON'T RUN <LINE> <IMAGECENTRE:media/ui/spiffo/dontrun.png> <LINE> <SIZE:medium> Survivors who run rapidly become survivors who are dead.",
 	SurvivalGuide_entrie2moreinfo = " <H1> ZOMBIE SENSES <BR> <TEXT> The Dead, in Survival mode, respond to sight and sound. <BR> <IMAGECENTRE:media/ui/tutimages/running.png> <LINE> <TEXT> Running generates sound and makes you more noticable. <BR> You can outrun the deadheads, but not forever. <BR> "..
     " A wise survivor befriends LCTRL (or RMB if they're buttered that way). This enables sneak / strafe mode. Slow sneaking makes you harder to spot, and reduces the pitter-patter of your doomed feet. It will also let you turn on your heel that much easier & to make sure nothing's about to take a chunk from your neck. <BR> <IMAGECENTRE:media/ui/tutimages/sneak.png> <LINE> Project Zomboid is not a popularity contest. Keep to the shadows. Zombies only want to eat you. They do not hug.",
@@ -61,7 +61,7 @@ SurvivalGuide_EN = {
             " <H1> RADIAL MENU <BR> <TEXT> If you're inside or next to a vehicle press 'V'. This will open its radial menu <BR> <IMAGECENTRE:media/ui/tutimages/carradialmenu.png> <LINE> From here you can switch seats, lock doors, operate lights, open up the Mechanics window and more. <BR> " ..
             " <H1> MECHANIC WINDOW <BR> <TEXT><IMAGECENTRE:media/ui/tutimages/carmechanics.png> <LINE> An unskilled survivor can check if your battery is still ok, see fuel levels and notice whether certain parts of the car appear damaged. A survivor with Mechanic skills will be able to see extra details, and install and uninstall parts. <BR> For more information on this and the Mechanic skill, click the info icon in the top left corner of the Mechanic window.",
 
-    SurvivalGuide_entrie10title = "SURVIVAL GUIDE #10 - WEATHER",
+    SurvivalGuide_entrie10title = "ІНСТРУКЦЫЯ ПА ВЫЖЫВАННІ #10 - НАДВОР’Е",
     SurvivalGuide_entrie10txt = " <CENTRE> <SIZE:medium> ZOMBOID SURVIVAL GUIDE <LINE> <SIZE:large> #10 - WEATHER <LINE> <IMAGECENTRE:media/ui/spiffo/winter.png> <LINE> <SIZE:medium> Fog, storms and snow make the undead threat even more challenging! Wrap up warm when Winter starts drawing in...",
     SurvivalGuide_entrie10moreinfo = "<H1> CLIMATE CHANGE <BR> <TEXT> Weather patterns in Project Zomboid are realistic. A simulated climate system uses the time of year, and virtual weather fronts, to create the rain, snow, fog and thunderstorms at the relevant times of year. <LINE> " ..
                                       " <BR> <IMAGECENTRE:media/ui/tutimages/groundsnow.png> <LINE> The impact of cold, and warm, temperatures have an impact on your survival. <LINE> " ..

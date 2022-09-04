@@ -1,12 +1,12 @@
-Tooltip_EN = {
+Tooltip_BE = {
 	-- Item tooltip
 	Tooltip_food_Uncooked = "Uncooked",
 	Tooltip_food_Rotten = "Rotten",
 	Tooltip_food_Fresh = "Fresh",
-	Tooltip_food_Cooked = "Cooked",
+	Tooltip_food_Cooked = "Прыгатавана",
 	Tooltip_food_Burnt = "Burnt",
-	Tooltip_food_Hunger = "Hunger",
-	Tooltip_food_Thirst = "Thirst",
+	Tooltip_food_Hunger = "Голад",
+	Tooltip_food_Thirst = "Смага",
 	Tooltip_food_Fatigue = "Fatigue",
 	Tooltip_food_Endurance = "Endurance",
 	Tooltip_food_Stress = "Stress",
@@ -14,7 +14,7 @@ Tooltip_EN = {
 	Tooltip_food_Unhappiness = "Unhappiness",
 	Tooltip_food_Dangerous_uncooked = "Dangerous Uncooked",
 	Tooltip_tissue_tooltip = "Equip to mute sneezes and coughs.",
-	Tooltip_item_Weight = "Weight",
+	Tooltip_item_Weight = "Вага",
 	Tooltip_item_Equipped = "equipped",
 	Tooltip_item_Unequipped = "unequipped",
 	Tooltip_item_Temperature = "Temperature",

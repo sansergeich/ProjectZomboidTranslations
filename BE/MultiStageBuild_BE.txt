@@ -1,11 +1,11 @@
-MultiStageBuild_EN = {
+MultiStageBuild_BE = {
     -- Wooden Wall
-    MultiStageBuild_CreateWoodenWall_1 = "Create Wooden Wall Lvl 1",
+    MultiStageBuild_CreateWoodenWall_1 = "Стварыць драўляную сцяну Узр. 1",
     MultiStageBuild_UpgradeWoodenWall_1To2 = "Upgrade to Wooden Wall Lvl 2",
-    MultiStageBuild_CreateWoodenWall_2 = "Create Wooden Wall Lvl 2",
+    MultiStageBuild_CreateWoodenWall_2 = "Стварыць драўляную сцяну Узр. 2",
     MultiStageBuild_UpgradeWoodenWall_1To3 = "Upgrade to Wooden Wall Lvl 3",
     MultiStageBuild_UpgradeWoodenWall_2To3 = "Upgrade to Wooden Wall Lvl 3",
-    MultiStageBuild_CreateWoodenWall_3 = "Create Wooden Wall Lvl 3",
+    MultiStageBuild_CreateWoodenWall_3 = "Стварыць драўляную сцяну Узр. 3",
     -- Wooden Window
     MultiStageBuild_CreateWoodenWindow_1 = "Create Wooden Window Lvl 1",
     MultiStageBuild_UpgradeWoodenWindow_1To2 = "Upgrade to Wooden Window Lvl 2",

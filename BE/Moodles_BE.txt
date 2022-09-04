@@ -1,4 +1,4 @@
-Moodles_EN = {
+Moodles_BE = {
 	-- Moodle type :
 	-- Endurance
 	Moodles_endurance_lvl1 = "Moderate Exertion",
@@ -11,10 +11,10 @@ Moodles_EN = {
 	Moodles_heavyload_lvl3 = "Very Heavy Load",
 	Moodles_heavyload_lvl4 = "Extremely Heavy Load",
 	-- Angry
-	Moodles_angry_lvl1 = "Irritated",
-	Moodles_angry_lvl2 = "Annoyed",
-	Moodles_angry_lvl3 = "Angry",
-	Moodles_angry_lvl4 = "Furious",
+	Moodles_angry_lvl1 = "Разнерваваны",
+	Moodles_angry_lvl2 = "Раздражнёны",
+	Moodles_angry_lvl3 = "Раззлаваны",
+	Moodles_angry_lvl4 = "Раз’юшаны",
 	-- Stress
 	Moodles_stress_lvl1 = "Anxious",
 	Moodles_stress_lvl2 = "Agitated",

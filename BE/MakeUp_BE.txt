@@ -1,8 +1,8 @@
-MakeUp_EN = {
-    MakeUpCategory_Eyes = "Eyes",
+MakeUp_BE = {
+    MakeUpCategory_Eyes = "Вочы",
     MakeUpCategory_EyesShadow = "Eyeshadow",
     MakeUpCategory_FullFace = "Full Face",
-    MakeUpCategory_Lips = "Lips",
+    MakeUpCategory_Lips = "Вусны",
 
     MakeUpType_EyesCrow = "Crow",
     MakeUpType_EyesRedStripes1 = "Red Stripes 1",

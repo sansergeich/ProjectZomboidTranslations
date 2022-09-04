@@ -1,12 +1,12 @@
-Farming_EN = {
+Farming_BE = {
   -- vegetables name (type of seed)
-  Farming_Carrots = "Carrots",
-  Farming_Broccoli = "Broccoli",
-  Farming_Radishes = "Radishes",
+  Farming_Carrots = "Морква",
+  Farming_Broccoli = "Брокалі",
+  Farming_Radishes = "Радыска",
   Farming_Strawberry_plant = "Strawberry plant",
   Farming_Tomato_Vine = "Tomato Vine",
-  Farming_Potatoes = "Potatoes",
-  Farming_Cabbages = "Cabbages",
+  Farming_Potatoes = "Бульба",
+  Farming_Cabbages = "Капуста",
   -- growing phase
   Farming_Seedling = "Seedling",
   Farming_Young = "Young",
@@ -41,7 +41,7 @@ Farming_EN = {
   Farming_Pest_Flies = "Pest Flies",
   Farming_Devil_Water_Fungi = "Devil's Water Fungi",
   -- hours
-  Farming_Hours = "Hours",
+  Farming_Hours = "Гадзін",
   -- health
   Farming_Flourishing = "Flourishing",
   Farming_Verdant = "Verdant",

@@ -1,12 +1,12 @@
-DynamicRadio_EN {
+DynamicRadio_BE {
     AEBS_Intro = "<bzzt> Fiver Zero Two. <wzzt> Automated Broadcast System. <bzzt>",
     AEBS_Choppah = "Air Activity detected.",
     AEBS_Power_1 = "Knox Power Grid: Power fluctuations detected.",
     AEBS_Power_2 = "Knox Power Grid: Systems failing. Network compromised.",
     AEBS_Power_3 = "Knox Power Grid: Blackout.",
-    AEBS_Pre_today = "Today,",
-    AEBS_Pre_tomorrow = "Tomorrow,",
-    AEBS_Pre_dayafter = "Day after tomorrow,",
+    AEBS_Pre_today = "Сёння,",
+    AEBS_Pre_tomorrow = "Заўтра,",
+    AEBS_Pre_dayafter = "Паслязаўтра,",
     --note: double '%%' at end required:
     AEBS_temperature = "average temperature %s. Minimum: %s. Maximum: %s. Humidity: %s%%...",
     AEBS_wind_0 = "%s wind from the %s. Maximum of %s expected. %s",
