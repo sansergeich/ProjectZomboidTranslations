@@ -10,7 +10,7 @@ MakeUp_BE = {
     MakeUpType_EyesCamo1 = "Camo 1",
     MakeUpType_EyesCamo2 = "Camo 2",
     MakeUpType_EyesCamoStripes = "Stripes",
-    MakeUpType_EyesFootball = "American Football",
+    MakeUpType_EyesFootball = "Амерыканскі футбол",
 
     MakeUpType_EyeShadowWhite = "White Eyeshadow",
     MakeUpType_EyeShadowLightBlue = "Light Blue Eyeshadow",

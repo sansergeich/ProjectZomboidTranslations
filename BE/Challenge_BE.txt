@@ -15,7 +15,7 @@ Challenge_BE = {
 	Challenge_Challenge1_desc = "You can hear them approaching. Hordes of deadheads, encroaching on your isolated cabin from every angle. Death is inevitable, but a shotgun is close-at-hand. <LINE> <LINE> Last Stand features endless waves of zombies in ever-increasing numbers. Survive for as long as possible against the overwhelming odds.",
 
 	Challenge_Challenge2_name = "House in the Woods - Last Stand Accumulator",
-	Challenge_Challenge2_desc = "Another day, another cabin ready to be bloodied. The hordes are upon you, and your death will be as painful as it is gruesome. So go out fighting... <LINE> <LINE> Last Stand вЂ“ Accumulator features endless waves of zombies in ever-increasing numbers. Use money earned by killing zeds to buy equipment, level up and repair your blood-soaked weaponry.",
+	Challenge_Challenge2_desc = "Another day, another cabin ready to be bloodied. The hordes are upon you, and your death will be as painful as it is gruesome. So go out fighting... <LINE> <LINE> Last Stand – Accumulator features endless waves of zombies in ever-increasing numbers. Use money earned by killing zeds to buy equipment, level up and repair your blood-soaked weaponry.",
 
     Challenge_AStormIsComing_name = "Шторм набліжаецца",
 	Challenge_AStormIsComing_desc = "Clouds are gathering over Kentucky. The crackle of thunder can be heard in the distance. <LINE> <LINE> As skies darken, the dead that stumble over the earth grow restless. <LINE> <LINE> This is a storm that will grow and fall back in its ferocity, but it will never end.",
@@ -29,7 +29,7 @@ Challenge_BE = {
     Challenge_Studio_name = "Студыя",
     Challenge_Studio_desc = "Where all the best movies are filmed!",
 	-- On-screen UI
-	Challenge_Challenge2_PressKey = "Press 'o' for permanent boost and to spend some money.",
+	Challenge_Challenge2_PressKey = "Press "o" for permanent boost and to spend some money.",
 	Challenge_Challenge2_WaveStart = "Wave %1 in : %2 (press Enter to skip)",
 	Challenge_Challenge2_WaveDuration = "Wave %1 : %2",
 	Challenge_Challenge2_ZombiesLeft = "Zombies left : %1",
@@ -45,7 +45,7 @@ Challenge_BE = {
 	Challenge_Challenge2_TabItems = "Items",
 	Challenge_Challenge2_TabRepair = "Repair",
 	Challenge_Challenge2_CurrentXp = "XP : %1",
-	Challenge_Challenge2_ButtonSkill = "%1 Lvl %2 - %3 XP"
+	Challenge_Challenge2_ButtonSkill = "%1 Lvl %2 - %3 XP",
 	Challenge_Challenge2_ButtonSkillMax = "%1 Lvl Max",
 	Challenge_Challenge2_GoldBonus = "Gold Bonus",
 	Challenge_Challenge2_XpBonus = "XP Bonus",
