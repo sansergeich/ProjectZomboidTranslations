@@ -20,6 +20,7 @@ Tooltip_RU = {
 	Tooltip_item_Temperature = "Температура",
 	Tooltip_item_Fatigue = "Усталость",
 	Tooltip_item_TaintedWater = "Пить грязную воду опасно - стерилизуйте её, прокипятив на огне",
+	Tooltip_item_TaintedWater_Plastic = "Пить грязную воду опасно. <br>Стерилизуйте её, прокипятив на огне",
 	Tooltip_weapon_Condition = "Состояние",
 	Tooltip_weapon_Repaired = "Починено",
 	Tooltip_weapon_Damage = "Урон",
@@ -280,7 +281,7 @@ Tooltip_RU = {
     Tooltip_Charcoal_Logs = "Чтобы сделать древесный уголь: добавьте 5 бревен, после этого подожгите бочку зажигалкой и подождите.",
     Tooltip_Charcoal_Progression = "Прогресс угля",
     Tooltip_clothing_holes = "Дыры",
-	
+	Tooltip_food_SlightDanger_uncooked = "Употребление в сыром виде может вызвать тошноту",
 	Tooltip_CantPlaceFavoriteItems = "Избранные предметы не могут быть удалены из инвентаря.",
 	
 	Tooltip_BookTitle = "Название книги",
