@@ -5,7 +5,7 @@ Challenge_BE = {
     Challenge_WinterIsComing_name = "Зіма набліжаецца",
 	Challenge_WinterIsComing_desc = "It's mid-July, but suddenly there's a chill on the breeze. In a mere three days' time a winter will set in like no other before it. <LINE> <LINE> You awake in an isolated location. You have meagre supplies, and the undead hordes might be slowed by the intense cold - but they are no less deadly. <LINE> <LINE> Wrap up warm, survivor...",
 
-	Challenge_OpeningHours_name = "Opening Hours",
+	Challenge_OpeningHours_name = "Гадзіны адкрыцця",
     Challenge_OpeningHours_desc = "The Mall is surrounded. Once upon a time, it was an important place in their lives. Instinct has led them to its doors. A memory of what they used to do... <LINE> <LINE> You are alone, but not for long. At 9AM the Mall will be ready for business: doors will open, and the hordes will enter. <LINE> <LINE> Be ready for them.",
 
 	Challenge_AReallyCDDAy_name = "A Really CD DA",
@@ -27,7 +27,7 @@ Challenge_BE = {
     Challenge_Kingsmouth_desc = "Enjoy a relaxing stay on Kingsmouth Island!",
 
     Challenge_Studio_name = "Студыя",
-    Challenge_Studio_desc = "Where all the best movies are filmed!",
+    Challenge_Studio_desc = "Тут здымаюцца лепшыя фільмы!",
 	-- On-screen UI
 	Challenge_Challenge2_PressKey = "Press "o" for permanent boost and to spend some money.",
 	Challenge_Challenge2_WaveStart = "Wave %1 in : %2 (press Enter to skip)",
@@ -39,32 +39,32 @@ Challenge_BE = {
 	Challenge_Challenge2_MoneyGained = "Money gained : %1",
 	Challenge_Challenge2_XPGained = "Experience gained : %1",
 	-- Window
-	Challenge_Challenge2_WindowTitle = "Last Stand",
+	Challenge_Challenge2_WindowTitle = "Апошні рубеж",
 	Challenge_Challenge2_TabPlayer = "Гулец",
 	Challenge_Challenge2_Weapons = "Зброя",
-	Challenge_Challenge2_TabItems = "Items",
+	Challenge_Challenge2_TabItems = "Рэчы",
 	Challenge_Challenge2_TabRepair = "Repair",
 	Challenge_Challenge2_CurrentXp = "XP : %1",
 	Challenge_Challenge2_ButtonSkill = "%1 Lvl %2 - %3 XP",
 	Challenge_Challenge2_ButtonSkillMax = "%1 Lvl Max",
-	Challenge_Challenge2_GoldBonus = "Gold Bonus",
+	Challenge_Challenge2_GoldBonus = "Залаты бонус",
 	Challenge_Challenge2_XpBonus = "XP Bonus",
 	Challenge_Challenge2_ButtonBonus = "%1% %2 - %3 XP",
 	Challenge_Challenge2_ButtonBonusMax = "%1 Max",
 	Challenge_Challenge2_ButtonStartGold = "+%1 Starting Gold - %2 XP",
 	Challenge_Challenge2_ButtonStartGoldMax = "Max Starting Gold %1",
 	-- PlayerUpWindow
-	Challenge_Challenge2_Skills = "Skills",
+	Challenge_Challenge2_Skills = "Навыкі",
 	Challenge_Challenge2_PermanentBonus = "Permanent Bonus",
 	-- VariousItemWindow
-	Challenge_Challenge2_Carpentry = "Carpentry",
-	Challenge_Challenge2_Health = "Health",
+	Challenge_Challenge2_Carpentry = "Цяслярства",
+	Challenge_Challenge2_Health = "Здароўе",
 	Challenge_Challenge2_ItemButton = "%1 - %2",
 	Challenge_Challenge2_ItemButton2 = "%1 x%2 - %3",
 	-- WeaponRepairWindow
-	Challenge_Challenge2_RepairWeapon = "Repair Weapon",
+	Challenge_Challenge2_RepairWeapon = "Адрамантаваць зброю",
 	-- WeaponUpWindow
-	Challenge_Challenge2_Health = "Health",
+	Challenge_Challenge2_Health = "Здароўе",
 
 	Challenge_OpeningHoursInfoBox = " <CENTRE> The Mall opens at 9AM. <LINE> <LINE> Get ready for the crowds...",
 	Challenge_WinterIsComingInfoBox = " <CENTRE> In three days the endless winter begins. <LINE> <LINE> Wrap up warm...",
