@@ -1,21 +1,21 @@
 Stash_BE = {
-    Stash_AnnotedMap = "Annotated Map",
+    Stash_AnnotedMap = "Карта з заўвагамі",
 
-    Stash_LVMap1_Text1 = "crazy gun guy rip",
-    Stash_LVMap1_Text2 = "crazy gun guy's house",
+    Stash_LVMap1_Text1 = "ляснуты з гарматай памянем",
+    Stash_LVMap1_Text2 = "дом ляснутага з гарматай",
 
     Stash_LVMap2_Text1 = "gift from mom x",
     Stash_LVMap2_Text2 = "don't forget to visit",
     Stash_LVMap2_Text3 = "grandma's grave if you can",
     Stash_LVMap2_Text4 = "say a prayer for us all",
 
-    Stash_LVMap3_Text1 = "school",
+    Stash_LVMap3_Text1 = "школа",
     Stash_LVMap3_Text2 = "creepy janitor's truck should be here",
     Stash_LVMap3_Text3 = "mind the fence driving out!",
 
     Stash_LVMap4_Text1 = "don't bother, wasted my time looking here",
-    Stash_LVMap4_Text2 = "need sledge",
-    Stash_LVMap4_Text4 = "gasstation",
+    Stash_LVMap4_Text2 = "трэба кувалда",
+    Stash_LVMap4_Text4 = "бензазапраўка",
 
     Stash_LVMap5_Text1 = "The Carlins moved here Debbie",
     Stash_LVMap5_Text2 = "Go to them if you need help!",
@@ -25,10 +25,10 @@ Stash_BE = {
 
     Stash_LVMap6_Text1 = "NO PLACE LIKE HOME!",
 
-    Stash_LVMap7_Text1 = "Thank you for putting me down",
-    Stash_LVMap7_Text2 = "This was my house",
-    Stash_LVMap7_Text3 = "I had everything I needed",
-    Stash_LVMap7_Text4 = "I thought",
+    Stash_LVMap7_Text1 = "Дзякуй за маё забойства",
+    Stash_LVMap7_Text2 = "Гэта была маім домам",
+    Stash_LVMap7_Text3 = "У мяне было ўсё",
+    Stash_LVMap7_Text4 = "Мне так падавалася",
 
     Stash_LVMap8_Text1 = "we're here third door down",
     Stash_LVMap8_Text2 = "hurry with those pills Diego",
@@ -43,16 +43,16 @@ Stash_BE = {
     Stash_LVMap10_Text3 = "just don't bring the whole fucking",
     Stash_LVMap10_Text4 = "horde with you this time!",
 
-    Stash_LVMap11_Text1 = "unlooted store",
+    Stash_LVMap11_Text1 = "неразрабаваная крама",
     Stash_LVMap11_Text2 = "full of zombies though",
     Stash_LVMap11_Text3 = "storage units",
     Stash_LVMap11_Text4 = "LV General",
 
-    Stash_LVMap12_Text1 = "pizza lady",
-    Stash_LVMap12_Text2 = "hot dude selling burgers",
-    Stash_LVMap12_Text3 = "our tent",
-    Stash_LVMap12_Text4 = "sinsilla's gonna be fuckin",
-    Stash_LVMap12_Text5 = "awesome woooooo!!!",
+    Stash_LVMap12_Text1 = "дзяўчо з піцай",
+    Stash_LVMap12_Text2 = "гарачы чал прадае бургеры",
+    Stash_LVMap12_Text3 = "наш намёт",
+    Stash_LVMap12_Text4 = "sinsilla будуць проста",
+    Stash_LVMap12_Text5 = "ахуеннымііі ўўўўхууууу!!!",
 
     Stash_LVMap13_Text1 = "good secure houses",
     Stash_LVMap13_Text2 = "but be careful clearing the backyards",
@@ -60,7 +60,7 @@ Stash_BE = {
 
     Stash_LVMap14_Text1 = "barricade with the planks I brought you",
     Stash_LVMap14_Text2 = "otherwise those things will get in",
-    Stash_LVMap14_Text3 = "don't forget!",
+    Stash_LVMap14_Text3 = "не забудзь!",
     Stash_LVMap14_Text4 = "don't let anyone in while I'm away!",
     Stash_LVMap14_Text5 = "I'll be a half hour (it's 2.30)",
     Stash_LVMap14_Text6 = "any longer, call the Edwards on the radio",
@@ -90,8 +90,8 @@ Stash_BE = {
     Stash_MulMap2_Text3 = "whole neighborhood turned out round here",
     Stash_MulMap3_Text1 = "Shotgun and ammo - hidden in case anyone else checks",
     Stash_MulMap3_Text2 = "Hardware, tools and stuff",
-    Stash_MulMap3_Text3 = "lots here",
-    Stash_MulMap4_Text1 = "easier way out",
+    Stash_MulMap3_Text3 = "дахалеры тут",
+    Stash_MulMap4_Text1 = "простае выйсце",
     Stash_MulMap4_Text2 = "medical",
     Stash_MulMap4_Text3 = "it'd be quick here - so many of them",
     Stash_MulMap6_Text1 = "Bob, I want this place fortified like HELL by the time I get back.",
@@ -99,31 +99,31 @@ Stash_BE = {
     Stash_MulMap6_Text21 = "Remember: antibiotics, bandages. This leg's not getting unfucked.",
     Stash_MulMap6_Text3 = "Saw a herd of them headed this way. Avoid! Love you x ",
     Stash_MulMap7_Text1 = "План Б.",
-    Stash_MulMap7_Text2 = "Крама — УСЁ ЯШЧЭ ПОЎНЫ",
-    Stash_MulMap7_Text3 = "fucked up",
+    Stash_MulMap7_Text2 = "Крама — „УСЁ ЯШЧЭ ПОЎНЫ“",
+    Stash_MulMap7_Text3 = "праёб",
     Stash_MulMap8_Text1 = "Take my stuff. Bury me if you can and it's safe. God bless you.",
     Stash_MulMap8_Text2 = "get a drink if you need it",
     Stash_MulMap8_Text3 = "big crowd, hasn't moved in days",
-    Stash_MulMap10_Text1 = "death house",
-    Stash_MulMap10_Text2 = "Spiffo's",
+    Stash_MulMap10_Text1 = "дом смерці",
+    Stash_MulMap10_Text2 = "„У Спіфа“",
     Stash_MulMap10_Text3 = "seemed clear round here",
-    Stash_MulMap11_Text1 = "Gun in Spiffo's.",
+    Stash_MulMap11_Text1 = "Гармата ва „У Спіфа“.",
     Stash_MulMap11_Text2 = "Drugs here.",
     Stash_MulMap11_Text3 = "trouble",
     Stash_MulMap12_Text1 = "shotgun here - food in kitchen?.",
     Stash_MulMap12_Text2 = "medical shit",
-    Stash_MulMap12_Text3 = "big crowd",
+    Stash_MulMap12_Text3 = "вялікі натоўп",
     Stash_MulMap13_Text1 = "got halfway back but had to leave it all here - too heavy",
     Stash_MulMap13_Text2 = "plenty of gear still in hardware store",
     Stash_MulMap13_Text3 = "gunshots",
 
 Stash_MulMap14_Text1 = "safest house - barricade it!",
 Stash_MulMap14_Text2 = "all around here",
-Stash_MulMap14_Text3 = "don't shoot - sound attracts them",
+Stash_MulMap14_Text3 = "не страляй — гукі прыцягваюць іх",
 
-Stash_MulMap15_Text1 = "old doctor lives/lived here",
+Stash_MulMap15_Text1 = "стары лекар жыве/жыў тут",
 Stash_MulMap15_Text2 = "careful along here",
-Stash_MulMap15_Text21 = "it's where J got bit",
+Stash_MulMap15_Text21 = "вось тут яны цапнулі Дж",
 
 Stash_MulMap16_Text1 = "security at bank got guns",
 Stash_MulMap16_Text2 = "I miss TV and cold beer, fuck this world",
@@ -155,13 +155,13 @@ Stash_MulMap18_Text12 = "hope all his guns still there",
     Stash_WpMap8_Text2 = "Gun store",
     Stash_WpMap8_Text3 = "saw a guy die",
     Stash_WpMap9_Text1 = "zombie hell hole",
-    Stash_WpMap9_Text2 = "dad's office",
-    Stash_WpMap9_Text3 = "dad body",
+    Stash_WpMap9_Text2 = "офіс бацькі",
+    Stash_WpMap9_Text3 = "цела бацькі",
     Stash_WpMap10_Text1 = "all kinds of fucked up",
     Stash_WpMap10_Text2 = "hardware store might still have stuff",
     Stash_WpMap10_Text3 = "more trouble",
-    Stash_WpMap11_Text1 = "Spiffo's Manager used to keep a shotgun in-store.",
-    Stash_WpMap11_Text11 = "Crazy motherfucker knew what was coming.",
+    Stash_WpMap11_Text1 = "Менеджар „У Спіфа“ быў трымаў драбавік у краме.",
+    Stash_WpMap11_Text11 = "Ведаў, вылупак бяздушны, што набліжалася.",
     Stash_WpMap11_Text2 = "Untouched hardware place.",
     Stash_WpMap11_Text3 = "gonna avoid anywhere near home - don't look for me here",
     Stash_WpMap12_Text1 = "everyone made it into the office the day the fever struck",
@@ -169,9 +169,9 @@ Stash_MulMap18_Text12 = "hope all his guns still there",
     Stash_WpMap12_Text2 = "gun store",
     Stash_WpMap12_Text3 = "Black Friday kinda crowds",
 
-    Stash_WpMap13_Text1 = "shotgun kills: 12",
-    Stash_WpMap13_Text2 = "axe kills: 20",
-    Stash_WpMap13_Text3 = "car kills: 11",
+    Stash_WpMap13_Text1 = "забіта драбавіком: 12",
+    Stash_WpMap13_Text2 = "забіта тапаром: 20",
+    Stash_WpMap13_Text3 = "забіта на аўто: 11",
 
     Stash_WpMap14_Text1 = "Meet me here Tonya! Got enough food."
     Stash_WpMap14_Text11 = "Now we just have to wait for Colin with his boat",
@@ -184,14 +184,14 @@ Stash_MulMap18_Text12 = "hope all his guns still there",
     Stash_WpMap16_Text2 = "Safest egress"
     Stash_WpMap16_Text21 = "fence, then south across road to forest"
     Stash_WpMap16_Text3 = "chances of survival:"
-    Stash_WpMap16_Text31 = "one month: 58%"
+    Stash_WpMap16_Text31 = "адзін месяц: 58%"
     Stash_WpMap16_Text32 = "through winter: 22%"
-    Stash_WpMap16_Text4 = "Need more food and working car"
+    Stash_WpMap16_Text4 = "Трэба больш ежы і спраўнае аўто"
 
-    Stash_MarchRidgeMap1_Text1 = "Gun here",
-    Stash_MarchRidgeMap1_Text2 = "axe and tools here?",
+    Stash_MarchRidgeMap1_Text1 = "Тут гармата",
+    Stash_MarchRidgeMap1_Text2 = "тут сякера і інструменты?",
     Stash_MarchRidgeMap1_Text3 = "не сыходзь",
-    Stash_MarchRidgeMap2_Text1 = "left you a pistol",
+    Stash_MarchRidgeMap2_Text1 = "пісталет для цябе",
     Stash_MarchRidgeMap2_Text2 = "store looked like it had supplies",
     Stash_MarchRidgeMap2_Text3 = "do they migrate? Seems like they were going here",
     Stash_MarchRidgeMap3_Text1 = "hunter guy here",
@@ -230,7 +230,7 @@ Stash_MulMap18_Text12 = "hope all his guns still there",
     Stash_RiversideStashMap2_Text12 = "Don't leave me alone here xxx",
 
     Stash_RiversideStashMap3_Text1 = "video store",
-    Stash_RiversideStashMap3_Text2 = "booze",
+    Stash_RiversideStashMap3_Text2 = "бухло",
 
     Stash_RiversideStashMap4_Text1 = "daryl's sick, left him here",
     Stash_RiversideStashMap4_Text11 = "going to find natalie, she'll know what to do",
@@ -273,7 +273,7 @@ Stash_MulMap18_Text12 = "hope all his guns still there",
     Stash_RosewoodStashMap4_Text2 = "When they come (and they WILL!)",
     Stash_RosewoodStashMap4_Text3 = "take what you can carry and disappear into forest",
 
-    Stash_RosewoodStashMap5_Text1 = "food here",
+    Stash_RosewoodStashMap5_Text1 = "тут ежа",
     Stash_RosewoodStashMap5_Text2 = "Don't rush in!",
     Stash_RosewoodStashMap5_Text3 = "Remember what happened to Mr Duncan",
 
@@ -286,11 +286,11 @@ Stash_WorldMap2_Text1 = "good place for base, remote",
 Stash_WorldMap2_Text11 = "barricade first when you arrive!",
 Stash_WorldMap2_Text12 = "hid some guns inside for you",
 
-Stash_WorldMap3_Text1 = "gas here",
-Stash_WorldMap3_Text11 = "you'll need it",
+Stash_WorldMap3_Text1 = "тут бенз",
+Stash_WorldMap3_Text11 = "гэта табе спатрэбіцца",
 
-Stash_WorldMap4_Text1 = "Where Yana said that woman was living",
-Stash_WorldMap4_Text11 = "Maybe she'll help us?",
+Stash_WorldMap4_Text1 = "Месца, дзе па словах Яны жыла тая жанчына",
+Stash_WorldMap4_Text11 = "Можа яна дапаможа нам?",
 
 Stash_WorldMap5_Text1 = "Paulie left the stuff here",
 Stash_WorldMap5_Text11 = "Check for lookouts before going in",
@@ -313,10 +313,10 @@ Stash_WorldMap9_Text2 = "crates all around, could be filled with stuff",
 Stash_WorldMap8_Text3 = "offices, nothing",
 Stash_WorldMap8_Text4 = "warehouses?",
 
-Stash_WorldMap10_Text1 = "GAS STATION",
-Stash_WorldMap10_Text2 = "CLOTHES STORE",
-Stash_WorldMap10_Text3 = "SPIFFO'S",
-Stash_WorldMap10_Text4 = "CARS",
+Stash_WorldMap10_Text1 = "БЕНЗАЗАПРАЎКА",
+Stash_WorldMap10_Text2 = "КРАМА З АДЗЕННЕМ",
+Stash_WorldMap10_Text3 = "„У СПІФА“",
+Stash_WorldMap10_Text4 = "МАШЫНЫ",
 
 Stash_WorldMap11_Text1 = "Dish 3 on Tower 2 - loses signal around 6 GHz - power problem",
 Stash_WorldMap11_Text11 = "Get HQ to test with Lexington after",
@@ -329,9 +329,9 @@ Stash_WorldMap13_Text1 = "Hal, we're going here, should be safe"
 Stash_WorldMap13_Text11 = "I know it's hard but DO NOT BRING PAULA"
 Stash_WorldMap13_Text12 = "You have to save yourself at least"
 
-Stash_WorldMap14_Text1 = "grandma"
-Stash_WorldMap14_Text2 = "where they got grampa"
-Stash_WorldMap14_Text3 = "Lord protect them"
+Stash_WorldMap14_Text1 = "бабуля"
+Stash_WorldMap14_Text2 = "куды яны забралі дзеда"
+Stash_WorldMap14_Text3 = "Божа, абарані іх"
 
 Stash_WorldMap17_Text1 = "patrol blindspot"
 Stash_WorldMap17_Text2 = "V will turn off motion sensors at 23.15 exactly"
@@ -341,10 +341,10 @@ Stash_WorldMap18_Text1 = "Ben"
 Stash_WorldMap18_Text2 = "path"
 
 Stash_WorldMap19_Text1 = "Stubborn fuck! At least take the guns I left in Mrs Cuddy's house"
-Stash_WorldMap19_Text11 = "If you die I'll never forgive you!!!"
+Stash_WorldMap19_Text11 = "Калі загінеш, я табе гэтага ніколі не дарую!!!"
 
-Stash_WorldMap19_Text1 = "DICKHEAD"
-Stash_WorldMap19_Text2 = "FUCKER"
-Stash_WorldMap19_Text3 = "ASSHOLE"
+Stash_WorldMap19_Text1 = "ЯЛДОН"
+Stash_WorldMap19_Text2 = "ЁЎБАЛА"
+Stash_WorldMap19_Text3 = "СЯРУН"
 */
 }
