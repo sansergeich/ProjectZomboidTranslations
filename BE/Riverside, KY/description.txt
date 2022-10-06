@@ -1,11 +1,12 @@
-Riverside
+Рыверсайд
  <LINE> <LINE>
- A colorful town tightly hugging the banks of the mighty Ohio: exploring Riverside is a rich and diverse experience!
- To the west you'll find the older parts of town,
- while out east is where our wealthier residents work, rest and play.
+ Маляўнічы гарадок, які шчыльна абымае берагі магутнай Агая. Даследванне Рыверсайду —
+ гэта багаты і разнастайны досвед!
+ На захадзе вы знойдзеце найстарэйшыя часткі горада,
+ у той час, пакуль на ўсходзе нашы багацейшыя жыхары працуюць, адпачываюць і гуляюць.
  <LINE> <LINE>
- In fact, if you're considering a stay with us, 
- why not check out the nearby Knox Heights Country Club? 
- The ultimate in comfort and relaxation: members have access to an 18 hole golf
- course, tennis courts, swimming pool and spa. Come join today!
+ Насамрэч, калі вы вырашыце застацца з намі, 
+ чаму б не завітаць у найбліжэйшым загарадным клубе «Вышыня Нокс»?? 
+ Найвышэйшы камфорт і расслабленне. Госці маюць доступ да поля для гульні ў гольф
+ на 18 ямак, тэнісных кортаў, басейнаў і спа. Прыязжайце да нас ужо сёння!
 

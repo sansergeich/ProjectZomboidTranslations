@@ -1,11 +1,11 @@
-Muldraugh
+Малдра
  <LINE> <LINE>
- Muldraugh is a small town in an area the locals know as "Knox Country" -
- the dead centre of the State of Kentucky. It grew as an Army town, but now welcomes
- folks from all walks of life - some commuters to the bigger towns
- nearby, some military families and some living below the poverty line.
+ Малдра — гэта мальенькі гарадок у мясцовасці, якую мясцовыя ведаюць як «акруга Нокс» —
+ цэнтр смерці штату Кентукі. Ён узрос як армейскі гаралок, але зараз запрашае
+ народ з усіх ніваў: хтосьці рэгулярна прыязжае сюды з вялікіх сумежных
+ гарадкоў, хтосьці — ваеныя, што пераехалі сюды з сям'ёю, а хтосьці жыве за мяжой беднасці.
  <LINE> <LINE>
- It's a small place, filled with good people - not to mention Spiffo’s finest
- Chicken and Biscuits this side of Kentucky! Sure, not much happens here -
- but that doesn't mean Muldraugh life is dull...
+ Гэта маленькае мястэчка, насычанае добрымі людзьмі. Нельга абмінуць увагай найлепшую
+ курачку Спіфа і Бісквіты у гэтай частцы Кентукі! Вядома, тут не часта штосьці здараецца,
+ але гэта не азначае, што жыццё ў Малдра нуднае...
 

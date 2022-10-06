@@ -1,10 +1,10 @@
-Rosewood
+Роўзвуд
  <LINE> <LINE>
- A short stay in Rosewood is pleasant, but a long stay?
- Well the inmates of the famous Knox Penitentiary will tell you: that’s not so fun!
+ Кароткі перапынак у Роўзвудзе — прыемны, але ці спыняцца надоўга?
+ Ну, прабывальнікі знакамітай Папраўчай Установы ў Ноксе Well паведаюць табе, што «гэта не так вясёла»!
  <LINE> <LINE>
- Ideally situated geographically for ease of access, Rosewood is a community hub for administration
- and community services as well as a leading incarceration center.
- The county courthouse, a recently refurbished fire department and a lively law enforcement facility
- make this one of the most important towns in the area! Come visit today!
+ Ідэальнае геаграфічнае становішча і лёгкадаступнасць, Роўзвуд — гэта цэнтр адміністравання
+ і камунальных паслугаў у той жа ступені, як і вядучы цэнтр пазбаўлення
+ волі. Акруговы суд, нядаўна адноўленае пажарнае дэпо і жвавы паліцэйскі ўчастак
+ робяць яго найважнейшым мясцовым горадам! Завітвайце ўжо сёння!
 
