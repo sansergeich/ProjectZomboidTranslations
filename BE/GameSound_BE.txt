@@ -1,5 +1,5 @@
 GameSound_BE = {
-    GameSound_ButtonAdvanced = "Advanced",
+    GameSound_ButtonAdvanced = "Пашыраныя налады",
     GameSound_ButtonReload = "Перазагрузіць",
     GameSound_ButtonReload_tt = "Reload all sounds.txt files.",
     GameSound_VolumeControlTooltip = "Volume: %1%<br>Master Volume: %2 %3%",
@@ -387,7 +387,7 @@ GameSound_BE = {
     GameSound_ZombieFootstepUpstairs = "Zombie Footstep Upstairs",
     GameSound_ZombieFootstepsCombined = "Zombie Footsteps Combined",
     GameSound_ZombieSurprisedPlayer = "Zombie Surprised Player",
-    GameSound_TutorialZombie = "TutorialZombie",
+    GameSound_TutorialZombie = "Зомбі з інструктажу",
 
 }
 
