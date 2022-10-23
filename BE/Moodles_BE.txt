@@ -1,25 +1,25 @@
 Moodles_BE = {
 	-- Moodle type :
 	-- Endurance
-	Moodles_endurance_lvl1 = "Moderate Exertion",
-	Moodles_endurance_lvl2 = "High Exertion",
-	Moodles_endurance_lvl3 = "Excessive Exertion",
-	Moodles_endurance_lvl4 = "Exhausted",
+	Moodles_endurance_lvl1 = "Умераная напружанне",
+	Moodles_endurance_lvl2 = "Высокае напружанне",
+	Moodles_endurance_lvl3 = "Перанапружанне",
+	Moodles_endurance_lvl4 = "Знясіленасць",
 	-- Heavy Load
-	Moodles_heavyload_lvl1 = "Fairly Heavy Load",
-	Moodles_heavyload_lvl2 = "Heavy Load",
-	Moodles_heavyload_lvl3 = "Very Heavy Load",
-	Moodles_heavyload_lvl4 = "Extremely Heavy Load",
+	Moodles_heavyload_lvl1 = "Досыць цяжкая нагрузка",
+	Moodles_heavyload_lvl2 = "Цяжкая нагрузка",
+	Moodles_heavyload_lvl3 = "Вельмі цяжкая нагрузка",
+	Moodles_heavyload_lvl4 = "Невыносна цяжкая нагрузка",
 	-- Angry
 	Moodles_angry_lvl1 = "Разнерваваны",
 	Moodles_angry_lvl2 = "Раздражнёны",
 	Moodles_angry_lvl3 = "Раззлаваны",
 	Moodles_angry_lvl4 = "Раз’юшаны",
 	-- Stress
-	Moodles_stress_lvl1 = "Anxious",
-	Moodles_stress_lvl2 = "Agitated",
-	Moodles_stress_lvl3 = "Stressed",
-	Moodles_stress_lvl4 = "Nervous Wreck",
+	Moodles_stress_lvl1 = "Неспакой",
+	Moodles_stress_lvl2 = "Хваляванне",
+	Moodles_stress_lvl3 = "Стрэс",
+	Moodles_stress_lvl4 = "Нервовы зрыў",
 	-- Thirst
 	Moodles_thirst_lvl1 = "Лёгкая смага",
 	Moodles_thirst_lvl2 = "Смага",
@@ -41,74 +41,74 @@ Moodles_BE = {
 	Moodles_panic_lvl3 = "Моцная паніка",
 	Moodles_panic_lvl4 = "Страшэнная паніка",
 	-- Sick
-	Moodles_sick_lvl1 = "Queasy",
-	Moodles_sick_lvl2 = "Nauseous",
-	Moodles_sick_lvl3 = "Sick",
-	Moodles_sick_lvl4 = "Fever",
+	Moodles_sick_lvl1 = "Лёгкая млосць",
+	Moodles_sick_lvl2 = "Моташнасць",
+	Moodles_sick_lvl3 = "Вы захварэлі",
+	Moodles_sick_lvl4 = "Ліхаманка",
 	-- Bored
-	Moodles_bored_lvl1 = "Getting Bored",
-	Moodles_bored_lvl2 = "Bored",
-	Moodles_bored_lvl3 = "Very Bored",
-	Moodles_bored_lvl4 = "Extremely Bored",
+	Moodles_bored_lvl1 = "Вам нуднавата",
+	Moodles_bored_lvl2 = "Нуда",
+	Moodles_bored_lvl3 = "Моцная нуда",
+	Moodles_bored_lvl4 = "Невыносная нуда",
 	-- Unhappy
-	Moodles_unhappy_lvl1 = "Feeling a Little Sad",
-	Moodles_unhappy_lvl2 = "Getting a Tad Weepy",
-	Moodles_unhappy_lvl3 = "Depressed",
-	Moodles_unhappy_lvl4 = "Severely Depressed",
+	Moodles_unhappy_lvl1 = "Лёгкі сум",
+	Moodles_unhappy_lvl2 = "Слёзы падступаюць",
+	Moodles_unhappy_lvl3 = "Прыгнечанасць",
+	Moodles_unhappy_lvl4 = "Моцная прыгнечанасць",
 	-- Bleeding
-	Moodles_bleeding_lvl1 = "Minor Bleeding",
-	Moodles_bleeding_lvl2 = "Bleeding",
-	Moodles_bleeding_lvl3 = "Severe Bleeding",
-	Moodles_bleeding_lvl4 = "Massive Blood Loss",
+	Moodles_bleeding_lvl1 = "Лёгкі крывацёк",
+	Moodles_bleeding_lvl2 = "Крывацёк",
+	Moodles_bleeding_lvl3 = "Моцны крывацёк",
+	Moodles_bleeding_lvl4 = "Вялізная трата крыві",
 	-- Wet
-	Moodles_wet_lvl1 = "Moist",
-	Moodles_wet_lvl2 = "Wet",
-	Moodles_wet_lvl3 = "Soaking",
-	Moodles_wet_lvl4 = "Drenched",
+	Moodles_wet_lvl1 = "Сыра",
+	Moodles_wet_lvl2 = "Вы мокнеце",
+	Moodles_wet_lvl3 = "Вы намоклі",
+	Moodles_wet_lvl4 = "Вы прамоклі да касцей",
 	-- Has a cold
-	Moodles_hascold_lvl1 = "Runny Nose",
-	Moodles_hascold_lvl2 = "The Sniffles",
-	Moodles_hascold_lvl3 = "You Have a Cold",
-	Moodles_hascold_lvl4 = "You Have a Nasty Cold",
+	Moodles_hascold_lvl1 = "Лёгкі насмарк",
+	Moodles_hascold_lvl2 = "Хлюпанне носам",
+	Moodles_hascold_lvl3 = "Прастуда",
+	Moodles_hascold_lvl4 = "Цяжкая прастуда",
 	-- Injured
-	Moodles_injured_lvl1 = "Discomfort",
-	Moodles_injured_lvl2 = "Injured",
-	Moodles_injured_lvl3 = "Severe Injuries",
-	Moodles_injured_lvl4 = "Critical Injuries",
+	Moodles_injured_lvl1 = "Дыскамфорт",
+	Moodles_injured_lvl2 = "Траўмаваны (-ая)",
+	Moodles_injured_lvl3 = "Цяжкія траўмы",
+	Moodles_injured_lvl4 = "Крытычныя траўмы",
 	-- Pain
-	Moodles_pain_lvl1 = "Minor Pain",
-	Moodles_pain_lvl2 = "Pain",
-	Moodles_pain_lvl3 = "Severe Pain",
-	Moodles_pain_lvl4 = "Agony",
+	Moodles_pain_lvl1 = "Малы боль",
+	Moodles_pain_lvl2 = "Боль",
+	Moodles_pain_lvl3 = "Моцны боль",
+	Moodles_pain_lvl4 = "Агонія",
 	-- Drunk
-	Moodles_drunk_lvl1 = "A Bit Tipsy",
-	Moodles_drunk_lvl2 = "Inebriated",
-	Moodles_drunk_lvl3 = "Plastered",
-	Moodles_drunk_lvl4 = "Utterly Shit-faced",
+	Moodles_drunk_lvl1 = "Вы падпілі",
+	Moodles_drunk_lvl2 = "Вы напіліся",
+	Moodles_drunk_lvl3 = "Вы напіліся як рамізнік",
+	Moodles_drunk_lvl4 = "Вы напіліся як гразь",
 	-- Dead
-	Moodles_dead_lvl1 = "Deceased",
+	Moodles_dead_lvl1 = "Вы памерлі",
 	-- Zombified
-	Moodles_zombie_lvl1 = "Zombified",
+	Moodles_zombie_lvl1 = "Вы сталі зомбі",
 	-- Food eaten
-	Moodles_foodeaten_lvl1 = "Satiated",
-	Moodles_foodeaten_lvl2 = "Well Fed",
-	Moodles_foodeaten_lvl3 = "Stuffed",
-	Moodles_foodeaten_lvl4 = "Full to Bursting",
+	Moodles_foodeaten_lvl1 = "Насычанне",
+	Moodles_foodeaten_lvl2 = "Вы наеліся",
+	Moodles_foodeaten_lvl3 = "Набіты",
+	Moodles_foodeaten_lvl4 = "Перапоўнены (-ая)",
 	-- Hyperthermia
-	Moodles_hyperthermia_lvl1 = "Unpleasantly Hot",
-	Moodles_hyperthermia_lvl2 = "Overheated",
-	Moodles_hyperthermia_lvl3 = "Sunstruck",
-	Moodles_hyperthermia_lvl4 = "Hyperthermic",
+	Moodles_hyperthermia_lvl1 = "Горача",
+	Moodles_hyperthermia_lvl2 = "Перагрэў",
+	Moodles_hyperthermia_lvl3 = "Сонечны ўдар",
+	Moodles_hyperthermia_lvl4 = "Гіпертэрмія",
 	-- Hypothermia
-	Moodles_hypothermia_lvl1 = "Chilly",
-	Moodles_hypothermia_lvl2 = "Cold",
-	Moodles_hypothermia_lvl3 = "Freezing",
-	Moodles_hypothermia_lvl4 = "Hypothermic",
+	Moodles_hypothermia_lvl1 = "Халаднавата",
+	Moodles_hypothermia_lvl2 = "Холадна",
+	Moodles_hypothermia_lvl3 = "Марозна",
+	Moodles_hypothermia_lvl4 = "Гіпатэрмія",
     -- Windchill
-    Moodles_windchill_lvl1 = "Slight Windchill",
-    Moodles_windchill_lvl2 = "Uncomfortable Windchill",
-    Moodles_windchill_lvl3 = "Freezing Windchill",
-    Moodles_windchill_lvl4 = "Horrific Windchill",
+    Moodles_windchill_lvl1 = "Вас злёгку прадзімае",
+    Moodles_windchill_lvl2 = "Вас прадзімае вецер",
+    Moodles_windchill_lvl3 = "Вас працінае сіверам",
+    Moodles_windchill_lvl4 = "Праймае да касцей",
 
 	-- Description of moodle
 	-- Endurance
@@ -122,10 +122,10 @@ Moodles_BE = {
 	Moodles_angry_desc_lvl3 = "Ball of rage.",
 	Moodles_angry_desc_lvl4 = "Spoiling for a fight.",
 	-- Stress
-	Moodles_stress_desc_lvl1 = "On edge.",
-	Moodles_stress_desc_lvl2 = "Nervous and jumpy.",
-	Moodles_stress_desc_lvl3 = "Sweaty palms. Gnawing fear.",
-	Moodles_stress_desc_lvl4 = "Terrified.",
+	Moodles_stress_desc_lvl1 = "Вы на мяжы.",
+	Moodles_stress_desc_lvl2 = "Нервовы і тузаны.",
+	Moodles_stress_desc_lvl3 = "У вас потныя далоні і вас грызе страх.",
+	Moodles_stress_desc_lvl4 = "Вы напалоханы.",
 	-- Thirsty
 	Moodles_thirst_desc_lvl1 = "Сухі рот.",
 	Moodles_thirst_desc_lvl2 = "Абязводжанасць.",
@@ -142,10 +142,10 @@ Moodles_BE = {
 	Moodles_hungry_desc_lvl3 = "Паменшаная сіла і ачуньванне.",
 	Moodles_hungry_desc_lvl4 = "Вы губляеце здароўе...",
 	-- Panic
-	Moodles_panic_desc_lvl1 = "Do your best to remain calm.",
-	Moodles_panic_desc_lvl2 = "Accuracy reduced.",
-	Moodles_panic_desc_lvl3 = "Accuracy severely reduced.",
-	Moodles_panic_desc_lvl4 = "Accuracy and vision severely reduced.",
+	Moodles_panic_desc_lvl1 = "Пастарайцеся захаваць спакой.",
+	Moodles_panic_desc_lvl2 = "Трапнасць зменшана.",
+	Moodles_panic_desc_lvl3 = "Трапнасць моцна зменшана.",
+	Moodles_panic_desc_lvl4 = "Трапнасць і бачанне моцна зменшаны.",
 	-- Sickness
 	Moodles_sick_desc_lvl1 = "Take things easy.",
 	Moodles_sick_desc_lvl2 = "Strength and healing reduced.",
@@ -162,10 +162,10 @@ Moodles_BE = {
 	Moodles_unhappy_desc_lvl3 = "Ravaged by mourning and desperation.",
 	Moodles_unhappy_desc_lvl4 = "Find a way to forget reality.",
 	-- Bleeding
-	Moodles_bleed_desc_lvl1 = "Bandage required.",
+	Moodles_bleed_desc_lvl1 = "Трэба перавязацца.",
 	Moodles_bleed_desc_lvl2 = "Strength and speed reduced.",
 	Moodles_bleed_desc_lvl3 = "Strength and speed severely reduced.",
-	Moodles_bleed_desc_lvl4 = "Death imminent.",
+	Moodles_bleed_desc_lvl4 = "Надыходзіць смерць.",
 	-- Wet
 	Moodles_wet_desc_lvl1 = "Slightly damp. Rain, or sweat?",
 	Moodles_wet_desc_lvl2 = "Sweatier, or even more rained on?",
@@ -188,8 +188,8 @@ Moodles_BE = {
 	Moodles_pain_desc_lvl4 = "Speed and accuracy severly reduced.",
 	-- Heavy load
 	Moodles_heavyload_desc_lvl1 = "Carrying a little too much.",
-	Moodles_heavyload_desc_lvl2 = "Movement speed reduced.",
-	Moodles_heavyload_desc_lvl3 = "Movement speed highly reduced.",
+	Moodles_heavyload_desc_lvl2 = "Хуткасць руху зменшана.",
+	Moodles_heavyload_desc_lvl3 = "Хуткасць руху моцна зменшана.",
 	Moodles_heavyload_desc_lvl4 = "Can't take much more! Movement compromised.",
 	-- Drunk
 	Moodles_drunk_desc_lvl1 = "Downed some booze.",
@@ -221,6 +221,6 @@ Moodles_BE = {
     Moodles_windchill_desc_lvl3 = "It's feeling 15 to 20 degrees colder than it actually is.",
     Moodles_windchill_desc_lvl4 = "It's feeling more than 20 degrees colder than it actually is.",
     -- CantSprint
-    Moodles_CantSprint = "Restricted Movement"
-    Moodles_CantSprint_desc = "Heavy clothing, bulky bags or large items slowing you down!"
+    Moodles_CantSprint = "Абмежаваны рух"
+    Moodles_CantSprint_desc = "Цяжкое адзенне, аб’ёмістыя сумкі або вялікія прадметы вас запавольваюць!"
 }
