@@ -4,6 +4,7 @@ Tooltip_BE = {
 	Tooltip_food_Uncooked = "Uncooked",
 	Tooltip_food_Rotten = "Rotten",
 	Tooltip_food_Fresh = "Fresh",
+	Tooltip_food_Stale = "Stale",
 	Tooltip_food_Cooked = "Прыгатавана",
 	Tooltip_food_Burnt = "Спалена",
 	Tooltip_food_Hunger = "Голад",
@@ -302,4 +303,14 @@ Tooltip_BE = {
     Tooltip_BookTitle_9 = "%1 для майстараў",
 	Tooltip_item_Watermelon = "Needs to be sliced or smashed before it can be eaten.",
 	Tooltip_item_NeedsSliced = "Needs to be sliced before addition to most recipes.",
+    -- Compass lines are currently unused since the compass item is not implemented yet.
+	Tooltip_compass_9 = "Compass heading: North.",
+	Tooltip_compass_8 = "Compass heading: Northwest.",
+	Tooltip_compass_7 = "Compass heading: West.",
+	Tooltip_compass_4 = "Compass heading: Southwest.",
+	Tooltip_compass_1 = "Compass heading: South.",
+	Tooltip_compass_2 = "Compass heading: Southeast.",
+	Tooltip_compass_3 = "Compass heading: East.",
+	Tooltip_compass_6 = "Compass heading: Northeast.",
+	Tooltip_no_nails = "Too unwieldy to drive nails.",
 }

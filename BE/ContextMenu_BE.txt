@@ -14,8 +14,8 @@ ContextMenu_BE = {
 	ContextMenu_Turn_On = "Уключыць",
 	ContextMenu_BBQInfo = "BBQ Info",
 	ContextMenu_FireplaceInfo = "Fireplace Info",
-	ContextMenu_Insert_Propane_Tank = "Insert Propane Tank"
-	ContextMenu_Remove_Propane_Tank = "Remove Propane Tank"
+	ContextMenu_Insert_Propane_Tank = "Insert Propane Tank",
+	ContextMenu_Remove_Propane_Tank = "Remove Propane Tank",
 	ContextMenu_Climb_through = "Пралезці",
 	ContextMenu_Climb_over = "Пералезці",
 	ContextMenu_Add_sheet_rope = "Add Sheet Rope",
@@ -87,6 +87,7 @@ ContextMenu_BE = {
 	ContextMenu_WaterSource = "Крыніца вады",
 	Puddle = "Puddle",
 	ContextMenu_NaturalWaterSource = "Натуральная крыніца вады",
+	ContextMenu_ItemWaterCapacity = "Item Water Capacity",
 
 	-- Crafting menu
 	ContextMenu_Door = "Дзверы",
@@ -302,6 +303,7 @@ ContextMenu_BE = {
     ContextMenu_FoodType_Bacon = "Бекон",
     ContextMenu_FoodType_HotPepper = "Hot Peppers",
     ContextMenu_FoodType_Rice = "Рыс",
+    ContextMenu_FoodType_Cocoa = "Cocoa",
     ContextMenu_or = "або",
     ContextMenu_RemoveBush = "Вырваць куст",
     ContextMenu_RemoveGrass = "Павырываць траву",
@@ -537,4 +539,10 @@ ContextMenu_BE = {
     ContextMenu_ComboWasherDryer_SetModeWasher = "Задаць рэжым: Мыйка",
     ContextMenu_ComboWasherDryer_SetModeDryer = "Задаць рэжым: Сушылка",
     ContextMenu_FuelCapacity = "Прадмет умяшчае паліва: ",
+    ContextMenu_EnableAutodrink = "Enable Autodrink",
+    ContextMenu_DisableAutodrink = "Disable Autodrink",
+	ContextMenu_PumpFuelAmount = "Fuel Pump Amount Remaining",
+    ContextMenu_TooComplicated = "Skill level too low to read",
+    ContextMenu_Illiterate = "You're illiterate",
+    ContextMenu_AmmoType = "Ammo Type",
 } 
