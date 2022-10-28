@@ -6,16 +6,16 @@ Challenge_BE = {
 	Challenge_WinterIsComing_desc = "It's mid-July, but suddenly there's a chill on the breeze. In a mere three days' time a winter will set in like no other before it. <LINE> <LINE> You awake in an isolated location. You have meagre supplies, and the undead hordes might be slowed by the intense cold - but they are no less deadly. <LINE> <LINE> Wrap up warm, survivor...",
 
 	Challenge_OpeningHours_name = "Гадзіны адкрыцця",
-    Challenge_OpeningHours_desc = "The Mall is surrounded. Once upon a time, it was an important place in their lives. Instinct has led them to its doors. A memory of what they used to do... <LINE> <LINE> You are alone, but not for long. At 9AM the Mall will be ready for business: doors will open, and the hordes will enter. <LINE> <LINE> Be ready for them.",
+    Challenge_OpeningHours_desc = "Гандлёвы цэнтр аточаны. Калісьці гэта было важнае месца ў іх жыцці. Інстынкт прывёў іх пад гэтыя дзверы. Памяць аб тым, чым яны былі... <LINE> <LINE> Вы адныя, але не надоўга. А 9-й раніцы гандлёвы цэнтр будзе гатовы да прыёму наведвальнікаў: дзверы адчыняцца і орды ўвойдуць. <LINE> <LINE> Падрыхтуйцеся да іх.",
 
 	Challenge_AReallyCDDAy_name = "Сапраўдны «CDDA»",
 	Challenge_AReallyCDDAy_desc = "You get out of the shower and fall badly. You're blind drunk, and have a nasty cold. <LINE> <LINE> On top of all this, the house is on fire! Today is definitely not your day. <LINE> <LINE> [A challenge inspired by A Really Bad Day from the awesome, wonderful and MUST-PLAY Cataclysm: Dark Days Ahead] ",
 
-	Challenge_Challenge1_name = "House in the Woods - Last Stand",
-	Challenge_Challenge1_desc = "You can hear them approaching. Hordes of deadheads, encroaching on your isolated cabin from every angle. Death is inevitable, but a shotgun is close-at-hand. <LINE> <LINE> Last Stand features endless waves of zombies in ever-increasing numbers. Survive for as long as possible against the overwhelming odds.",
+	Challenge_Challenge1_name = "Хата ў лесе - Апошні рубеж",
+	Challenge_Challenge1_desc = "Вы ўжо чуеце, як яны надыходзяць. Орды мёртвагаловых наступаюць на вашу ізаляваную хатку з кожнага кута. Смерць непазбежна, але драбавік пад рукой. <LINE> <LINE> Галоўнай рысай апошняга рубежу з'яўляюцца бясконцыя хвалі зомбі з пастаянным павялічваннем іх колькасці. Паспрабуйце пратрымацца як мага дольш супраць незлічоных натоўпаў.",
 
-	Challenge_Challenge2_name = "House in the Woods - Last Stand Accumulator",
-	Challenge_Challenge2_desc = "Another day, another cabin ready to be bloodied. The hordes are upon you, and your death will be as painful as it is gruesome. So go out fighting... <LINE> <LINE> Last Stand – Accumulator features endless waves of zombies in ever-increasing numbers. Use money earned by killing zeds to buy equipment, level up and repair your blood-soaked weaponry.",
+	Challenge_Challenge2_name = "Хата ў лесе - Акумулятарны апошні рубеж",
+	Challenge_Challenge2_desc = "Іншы дзень — іншая хатка, гатовая быць залітай крывёю. Орды на падыходзе, а ваша смерць будзе настолькі жа бальчай, наколькі і жудаснай. Прыйшоў час выходзіць біцца... <LINE> <LINE> Галоўнай рысай акумулятарнага апошняга рубежу з'яўляюцца бясконцыя хвалі зомбі з пастаянным павялічваннем іх колькасці. Выкарыстоўвайце грошы, атрыманыя за забітых зэдаў для пакупкі рыштунку, павышэння ўзроўню і рамонту вашага скрываўленага ўзбраення.",
 
     Challenge_AStormIsComing_name = "Шторм набліжаецца",
 	Challenge_AStormIsComing_desc = "Clouds are gathering over Kentucky. The crackle of thunder can be heard in the distance. <LINE> <LINE> As skies darken, the dead that stumble over the earth grow restless. <LINE> <LINE> This is a storm that will grow and fall back in its ferocity, but it will never end.",
@@ -24,7 +24,7 @@ Challenge_BE = {
     Challenge_TheDescendingFog_desc = "People first saw it on the water. A faint white blanket over the Ohio river. <LINE> <LINE> It began as a mist. Then it enveloped the town. The townsfolk died screaming in the gloom. Now they walk out there. <LINE> <LINE> Unseen, unheard and relentless in the pursuit of the living.",
 
     Challenge_Kingsmouth_name = "Кінгсмаўт",
-    Challenge_Kingsmouth_desc = "Enjoy a relaxing stay on Kingsmouth Island!",
+    Challenge_Kingsmouth_desc = "Атрымайце асалоду ад расслабляльнага прыпынку на востраве Кінгсмаўт!",
 
     Challenge_Studio_name = "Студыя",
     Challenge_Studio_desc = "Тут здымаюцца лепшыя фільмы!",
