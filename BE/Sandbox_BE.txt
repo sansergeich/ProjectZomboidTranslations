@@ -1,5 +1,5 @@
 Sandbox_BE = {
-    Sandbox_SavedPresets = "Saved Presets:",
+    Sandbox_SavedPresets = "Захаваныя наборы налад:",
     Sandbox_SaveButton = "Захаваць",
     Sandbox_SavePrompt = "Захаваць гэты набор налад пясочніцы",
     Sandbox_DeletePresetPrompt = "Выдаліць «%1»?",
@@ -253,7 +253,7 @@ Sandbox_LootMechanics = "Механіка",
     Sandbox_StarterKit_tooltip = "Spawn with chips, water bottle, school bag, baseball bat and a hammer.",
     --
     Sandbox_ZombieLore = "Zombie Lore",
-    Sandbox_ProperZombies = "Proper Zombies",
+    Sandbox_ProperZombies = "Правільныя зомбі",
     --
     Sandbox_ZombieAdvanced = "Пашыраныя параметры зомбі",
     --
@@ -262,9 +262,9 @@ Sandbox_LootMechanics = "Механіка",
     Sandbox_ZSpeed_option1 = "Бягуны",
     Sandbox_ZSpeed_option2 = "Хуткія валацугі",
     Sandbox_ZSpeed_option3 = "Валацугі",
-    Sandbox_ZSpeed_option4 = "Random",
+    Sandbox_ZSpeed_option4 = "Выпадковая",
     Sandbox_ZStrength = "Сіла",
-    Sandbox_ZStrength_tooltip = "Controls the damage zombies inflict per attack.",
+    Sandbox_ZStrength_tooltip = "Кантралюе шкоду, якую наносяць зомбі праз атаку.",
     Sandbox_ZStrength_option1 = "Звышчалавечая",
     Sandbox_ZStrength_option2 = "Нармальная",
     Sandbox_ZStrength_option3 = "Слабая",

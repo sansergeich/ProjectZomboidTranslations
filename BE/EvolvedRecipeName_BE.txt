@@ -7,6 +7,6 @@ EvolvedRecipeName_BE = {
 	EvolvedRecipeName_Base.CannedPeasOpen = "Кансерваваны гарох",
 	EvolvedRecipeName_Base.CannedPotatoOpen = "Кансерваваная бульба",
 	EvolvedRecipeName_Base.CannedSardinesOpen = "Кансерваваныя сардзіны",
-	EvolvedRecipeName_Base.CannedTomatoOpen = "Кансерваваныя таматы",
+	EvolvedRecipeName_Base.CannedTomatoOpen = "Кансерваваныя памідоры",
 	EvolvedRecipeName_Base.Teabag2 = "Гарбата",
 }

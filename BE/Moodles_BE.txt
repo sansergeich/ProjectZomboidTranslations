@@ -23,7 +23,7 @@ Moodles_BE = {
 	-- Thirst
 	Moodles_thirst_lvl1 = "Лёгкая смага",
 	Moodles_thirst_lvl2 = "Смага",
-	Moodles_thirst_lvl3 = "Высушаны (-ая)",
+	Moodles_thirst_lvl3 = "Высушаны(-ая)",
 	Moodles_thirst_lvl4 = "Смяротная смага",
 	-- Tired
 	Moodles_tired_lvl1 = "Млявасць",
@@ -72,7 +72,7 @@ Moodles_BE = {
 	Moodles_hascold_lvl4 = "Цяжкая прастуда",
 	-- Injured
 	Moodles_injured_lvl1 = "Дыскамфорт",
-	Moodles_injured_lvl2 = "Траўмаваны (-ая)",
+	Moodles_injured_lvl2 = "Траўміраваны(-ая)",
 	Moodles_injured_lvl3 = "Цяжкія траўмы",
 	Moodles_injured_lvl4 = "Крытычныя траўмы",
 	-- Pain
@@ -90,10 +90,10 @@ Moodles_BE = {
 	-- Zombified
 	Moodles_zombie_lvl1 = "Вы сталі зомбі",
 	-- Food eaten
-	Moodles_foodeaten_lvl1 = "Насычанне",
+	Moodles_foodeaten_lvl1 = "Насычэнне",
 	Moodles_foodeaten_lvl2 = "Вы наеліся",
 	Moodles_foodeaten_lvl3 = "Набіты",
-	Moodles_foodeaten_lvl4 = "Перапоўнены (-ая)",
+	Moodles_foodeaten_lvl4 = "Перапоўнены(-ая)",
 	-- Hyperthermia
 	Moodles_hyperthermia_lvl1 = "Горача",
 	Moodles_hyperthermia_lvl2 = "Перагрэў",
@@ -117,7 +117,7 @@ Moodles_BE = {
 	Moodles_endurance_desc_lvl3 = "Вы ледзьве можаце хадзіць.",
 	Moodles_endurance_desc_lvl4 = "Вы ледзьве можаце перамяшчацца.",
 	-- Angry
-	Moodles_angry_desc_lvl1 = "A bit narked off.",
+	Moodles_angry_desc_lvl1 = "Крыху раздражнёны(-ая).",
 	Moodles_angry_desc_lvl2 = "Seriously bad mood.",
 	Moodles_angry_desc_lvl3 = "Ball of rage.",
 	Moodles_angry_desc_lvl4 = "Spoiling for a fight.",
@@ -128,7 +128,7 @@ Moodles_BE = {
 	Moodles_stress_desc_lvl4 = "Вы напалоханы.",
 	-- Thirsty
 	Moodles_thirst_desc_lvl1 = "Сухі рот.",
-	Moodles_thirst_desc_lvl2 = "Абязводжанасць.",
+	Moodles_thirst_desc_lvl2 = "Абязводжанне.",
 	Moodles_thirst_desc_lvl3 = "Галава круціцца.",
 	Moodles_thirst_desc_lvl4 = "Вы моліцеся аб вадзе.",
 	-- Tired
