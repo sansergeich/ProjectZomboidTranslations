@@ -9,7 +9,7 @@ Challenge_BE = {
     Challenge_OpeningHours_desc = "Гандлёвы цэнтр аточаны. Калісьці гэта было важнае месца ў іх жыцці. Інстынкт прывёў іх пад гэтыя дзверы. Памяць аб тым, чым яны былі... <LINE> <LINE> Вы адныя, але не надоўга. А 9-й раніцы гандлёвы цэнтр будзе гатовы да прыёму наведвальнікаў: дзверы адчыняцца і орды ўвойдуць. <LINE> <LINE> Падрыхтуйцеся да іх.",
 
 	Challenge_AReallyCDDAy_name = "Сапраўдны «CDDA»",
-	Challenge_AReallyCDDAy_desc = "You get out of the shower and fall badly. You're blind drunk, and have a nasty cold. <LINE> <LINE> On top of all this, the house is on fire! Today is definitely not your day. <LINE> <LINE> [A challenge inspired by A Really Bad Day from the awesome, wonderful and MUST-PLAY Cataclysm: Dark Days Ahead] ",
+	Challenge_AReallyCDDAy_desc = "Вы выходзіце з душу і моцна спатыкаецеся. Вы п’яны, што дурны, і ў вас брыдкая прастуда. <LINE> <LINE> І да гэтага ўсяго, вашу хату ахапіў агонь! Сёння — адназначна не ваш дзень. <LINE> <LINE> [Выпрабаванне натхнёна сцэнаром «A Really Bad Day» з неверагоднай, цудоўнай і абавязковай для азнаямлення «Cataclysm: Dark Days Ahead»] ",
 
 	Challenge_Challenge1_name = "Хата ў лесе - Апошні рубеж",
 	Challenge_Challenge1_desc = "Вы ўжо чуеце, як яны надыходзяць. Орды мёртвагаловых наступаюць на вашу ізаляваную хатку з кожнага кута. Смерць непазбежна, але драбавік пад рукой. <LINE> <LINE> Галоўнай рысай апошняга рубежу з'яўляюцца бясконцыя хвалі зомбі з пастаянным павялічваннем іх колькасці. Паспрабуйце пратрымацца як мага дольш супраць незлічоных натоўпаў.",
@@ -18,10 +18,10 @@ Challenge_BE = {
 	Challenge_Challenge2_desc = "Іншы дзень — іншая хатка, гатовая быць залітай крывёю. Орды на падыходзе, а ваша смерць будзе настолькі жа бальчай, наколькі і жудаснай. Прыйшоў час выходзіць біцца... <LINE> <LINE> Галоўнай рысай акумулятарнага апошняга рубежу з'яўляюцца бясконцыя хвалі зомбі з пастаянным павялічваннем іх колькасці. Выкарыстоўвайце грошы, атрыманыя за забітых зэдаў для пакупкі рыштунку, павышэння ўзроўню і рамонту вашага скрываўленага ўзбраення.",
 
     Challenge_AStormIsComing_name = "Шторм набліжаецца",
-	Challenge_AStormIsComing_desc = "Clouds are gathering over Kentucky. The crackle of thunder can be heard in the distance. <LINE> <LINE> As skies darken, the dead that stumble over the earth grow restless. <LINE> <LINE> This is a storm that will grow and fall back in its ferocity, but it will never end.",
+	Challenge_AStormIsComing_desc = "Аблокі збіраюцца над Кентукі. Трашчанне грому чутны здалёк. <LINE> <LINE> Пакуль цямнее неба, мёртвыя, якія валочацца па зямлі, безупынна набіраюць сілы. <LINE> <LINE> Гэты шторм будзе расці і адступаць на піку сваёй лютасці, але ён ніколі не скончыцца.",
 
     Challenge_TheDescendingFog_name = "Апусканне імглы",
-    Challenge_TheDescendingFog_desc = "People first saw it on the water. A faint white blanket over the Ohio river. <LINE> <LINE> It began as a mist. Then it enveloped the town. The townsfolk died screaming in the gloom. Now they walk out there. <LINE> <LINE> Unseen, unheard and relentless in the pursuit of the living.",
+    Challenge_TheDescendingFog_desc = "Спачатку людзі пабачылі гэта над вадой. Бляклае белае покрыва над ракой Агая. <LINE> <LINE> Спачатку гэта была імгла. Потым яна ахутала горад. Гараджане з крыкам паміралі ў цемры. Цяпер яны ходзяць там. <LINE> <LINE> Небачныя, нечутныя і бязлітасныя ў пераследаванні жывога.",
 
     Challenge_Kingsmouth_name = "Кінгсмаўт",
     Challenge_Kingsmouth_desc = "Атрымайце асалоду ад расслабляльнага прыпынку на востраве Кінгсмаўт!",

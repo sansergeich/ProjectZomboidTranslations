@@ -118,9 +118,9 @@ Moodles_BE = {
 	Moodles_endurance_desc_lvl4 = "Вы ледзьве можаце перамяшчацца.",
 	-- Angry
 	Moodles_angry_desc_lvl1 = "Крыху раздражнёны(-ая).",
-	Moodles_angry_desc_lvl2 = "Seriously bad mood.",
-	Moodles_angry_desc_lvl3 = "Ball of rage.",
-	Moodles_angry_desc_lvl4 = "Spoiling for a fight.",
+	Moodles_angry_desc_lvl2 = "Вы сур’ёзна не ў настроі.",
+	Moodles_angry_desc_lvl3 = "Вы напоўненыя злобай.",
+	Moodles_angry_desc_lvl4 = "Вас ірве да бойкі.",
 	-- Stress
 	Moodles_stress_desc_lvl1 = "Вы на мяжы.",
 	Moodles_stress_desc_lvl2 = "Нервовы і тузаны.",
@@ -132,14 +132,14 @@ Moodles_BE = {
 	Moodles_thirst_desc_lvl3 = "Галава круціцца.",
 	Moodles_thirst_desc_lvl4 = "Вы моліцеся аб вадзе.",
 	-- Tired
-	Moodles_tired_desc_lvl1 = "Could do with a lie-down.",
-	Moodles_tired_desc_lvl2 = "Awareness reduced.",
-	Moodles_tired_desc_lvl3 = "Awareness severely reduced.",
-	Moodles_tired_desc_lvl4 = "So tired. So desperately, inhumanly tired.",
+	Moodles_tired_desc_lvl1 = "Вы маглі бы прылегчы.",
+	Moodles_tired_desc_lvl2 = "Усведамленне зніжана.",
+	Moodles_tired_desc_lvl3 = "Усведамленне сур’ёзна зніжана.",
+	Moodles_tired_desc_lvl4 = "Такая стома. Такая безнадзейная, нечалавечая стома.",
 	-- Hungry
 	Moodles_hungry_desc_lvl1 = "Вам бы перакусіць.",
 	Moodles_hungry_desc_lvl2 = "Вы б зараз з’елі і каня.",
-	Moodles_hungry_desc_lvl3 = "Паменшаная сіла і ачуньванне.",
+	Moodles_hungry_desc_lvl3 = "Паменшаны сіла і ачуньванне.",
 	Moodles_hungry_desc_lvl4 = "Вы губляеце здароўе...",
 	-- Panic
 	Moodles_panic_desc_lvl1 = "Пастарайцеся захаваць спакой.",
