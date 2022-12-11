@@ -14,7 +14,7 @@ Moodles_BE = {
 	Moodles_angry_lvl1 = "Разнерваваны",
 	Moodles_angry_lvl2 = "Раздражнёны",
 	Moodles_angry_lvl3 = "Раззлаваны",
-	Moodles_angry_lvl4 = "Раз’юшаны",
+	Moodles_angry_lvl4 = "Раз'юшаны",
 	-- Stress
 	Moodles_stress_lvl1 = "Неспакой",
 	Moodles_stress_lvl2 = "Хваляванне",
@@ -118,7 +118,7 @@ Moodles_BE = {
 	Moodles_endurance_desc_lvl4 = "Вы ледзьве можаце перамяшчацца.",
 	-- Angry
 	Moodles_angry_desc_lvl1 = "Крыху раздражнёны(-ая).",
-	Moodles_angry_desc_lvl2 = "Вы сур’ёзна не ў настроі.",
+	Moodles_angry_desc_lvl2 = "Вы сур'ёзна не ў настроі.",
 	Moodles_angry_desc_lvl3 = "Вы напоўненыя злобай.",
 	Moodles_angry_desc_lvl4 = "Вас ірве да бойкі.",
 	-- Stress
@@ -134,11 +134,11 @@ Moodles_BE = {
 	-- Tired
 	Moodles_tired_desc_lvl1 = "Вы маглі бы прылегчы.",
 	Moodles_tired_desc_lvl2 = "Усведамленне зніжана.",
-	Moodles_tired_desc_lvl3 = "Усведамленне сур’ёзна зніжана.",
+	Moodles_tired_desc_lvl3 = "Усведамленне сур'ёзна зніжана.",
 	Moodles_tired_desc_lvl4 = "Такая стома. Такая безнадзейная, нечалавечая стома.",
 	-- Hungry
 	Moodles_hungry_desc_lvl1 = "Вам бы перакусіць.",
-	Moodles_hungry_desc_lvl2 = "Вы б зараз з’елі і каня.",
+	Moodles_hungry_desc_lvl2 = "Вы б зараз з'елі і каня.",
 	Moodles_hungry_desc_lvl3 = "Паменшаны сіла і ачуньванне.",
 	Moodles_hungry_desc_lvl4 = "Вы губляеце здароўе...",
 	-- Panic
@@ -222,5 +222,5 @@ Moodles_BE = {
     Moodles_windchill_desc_lvl4 = "It's feeling more than 20 degrees colder than it actually is.",
     -- CantSprint
     Moodles_CantSprint = "Абмежаваны рух"
-    Moodles_CantSprint_desc = "Цяжкое адзенне, аб’ёмістыя сумкі або вялікія прадметы вас запавольваюць!"
+    Moodles_CantSprint_desc = "Цяжкое адзенне, аб'ёмістыя сумкі або вялікія прадметы вас запавольваюць!"
 }
