@@ -33,7 +33,7 @@ IGUI_BE = {
     IGUI_char_Female = "Жанчына",
     IGUI_char_Weight = "Вага",
     IGUI_ContainerTitle_barbecue = "Barbecue",
-    IGUI_ContainerTitle_bin = "Bin",
+    IGUI_ContainerTitle_bin = "Garbage",
     IGUI_ContainerTitle_campfire = "Campfire",
     IGUI_ContainerTitle_cashregister = "Cash Register",
     IGUI_ContainerTitle_clothingdryer = "Clothing Dryer",
@@ -276,7 +276,7 @@ IGUI_BE = {
     IGUI_Fish_PanFish = "Сінежабравы сонечнік",
     IGUI_Fish_Perch = "Прэснаводны акунь",
     -- Controller
-    IGUI_Controller_TakeOverPlayer = "Пераняць гульца 1",
+    IGUI_Controller_TakeOverPlayer = "Пераняць гульца %1",
     IGUI_Controller_AddNewPlayer = "Дадаць новага гульца",
     IGUI_Controller_AddSavedPlayer = "Дадаць %1 %2",
     IGUI_Controller_Interact = "Узаемадзейнічаць",
@@ -290,7 +290,7 @@ IGUI_BE = {
     -- Sleep dialog
     IGUI_Sleep_Prompt = "Як доўга спаць?",
     IGUI_Sleep_OneHour = "1 гадзіна",
-    IGUI_Sleep_NHours = "%1 гадзін",
+    IGUI_Sleep_NHours = "Гадзіны: %1",
     IGUI_Tutorial_MoreInfo = "Больш звестак",
     IGUI_Tutorial_PressF1 = "Памятайце, што вы можаце націснуць F1, каб вярнуць інструкцыю назад.",
     IGUI_Gametime_SurvivedFor = "Вы выжывалі напрацягу %1.",
