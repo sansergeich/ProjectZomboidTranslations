@@ -123,7 +123,7 @@ Moodles_BE = {
 	Moodles_angry_desc_lvl4 = "Вас ірве да бойкі.",
 	-- Stress
 	Moodles_stress_desc_lvl1 = "Вы на мяжы.",
-	Moodles_stress_desc_lvl2 = "Нервовы і тузаны.",
+	Moodles_stress_desc_lvl2 = "Знерваванасць і стузанасць.",
 	Moodles_stress_desc_lvl3 = "У вас потныя далоні і вас грызе страх.",
 	Moodles_stress_desc_lvl4 = "Вы напалоханы.",
 	-- Thirsty

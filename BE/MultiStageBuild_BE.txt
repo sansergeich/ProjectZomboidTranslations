@@ -1,28 +1,28 @@
 MultiStageBuild_BE = {
     -- Wooden Wall
-    MultiStageBuild_CreateWoodenWall_1 = "Стварыць драўляную сцяну Узр. 1",
-    MultiStageBuild_UpgradeWoodenWall_1To2 = "Upgrade to Wooden Wall Lvl 2",
-    MultiStageBuild_CreateWoodenWall_2 = "Стварыць драўляную сцяну Узр. 2",
-    MultiStageBuild_UpgradeWoodenWall_1To3 = "Upgrade to Wooden Wall Lvl 3",
-    MultiStageBuild_UpgradeWoodenWall_2To3 = "Upgrade to Wooden Wall Lvl 3",
-    MultiStageBuild_CreateWoodenWall_3 = "Стварыць драўляную сцяну Узр. 3",
+    MultiStageBuild_CreateWoodenWall_1 = "Стварыць драўляную сцяну ўзр. 1",
+    MultiStageBuild_UpgradeWoodenWall_1To2 = "Палепшыць драўляную сцяну да ўзр. 2",
+    MultiStageBuild_CreateWoodenWall_2 = "Стварыць драўляную сцяну ўзр. 2",
+    MultiStageBuild_UpgradeWoodenWall_1To3 = "Палепшыць драўляную сцяну да ўзр. 3",
+    MultiStageBuild_UpgradeWoodenWall_2To3 = "Палепшыць драўляную сцяну да ўзр. 3",
+    MultiStageBuild_CreateWoodenWall_3 = "Стварыць драўляную сцяну ўзр. 3",
     -- Wooden Window
-    MultiStageBuild_CreateWoodenWindow_1 = "Create Wooden Window Lvl 1",
-    MultiStageBuild_UpgradeWoodenWindow_1To2 = "Upgrade to Wooden Window Lvl 2",
-    MultiStageBuild_CreateWoodenWindow_2 = "Create Wooden Window Lvl 2",
-    MultiStageBuild_UpgradeWoodenWindow_1To3 = "Upgrade to Wooden Window Lvl 3",
-    MultiStageBuild_UpgradeWoodenWindow_2To3 = "Upgrade to Wooden Window Lvl 3",
-    MultiStageBuild_CreateWoodenWindow_3 = "Create Wooden Window Lvl 3",
+    MultiStageBuild_CreateWoodenWindow_1 = "Стварыць драўлянае акно ўзр. 1",
+    MultiStageBuild_UpgradeWoodenWindow_1To2 = "Палепшыць драўлянае акно да ўзр. 2",
+    MultiStageBuild_CreateWoodenWindow_2 = "Стварыць драўлянае акно ўзр. 2",
+    MultiStageBuild_UpgradeWoodenWindow_1To3 = "Палепшыць драўлянае акно да ўзр. 3",
+    MultiStageBuild_UpgradeWoodenWindow_2To3 = "Палепшыць драўлянае акно да ўзр. 3",
+    MultiStageBuild_CreateWoodenWindow_3 = "Стварыць драўлянае акно ўзр. 3",
     -- Metal Wall
-    MultiStageBuild_CreateMetalWall_1 = "Create Metal Wall Lvl 1",
-    MultiStageBuild_UpgradeMetalWall_1To2 = "Upgrade to Metal Wall Lvl 2",
-    MultiStageBuild_CreateMetalWall_2 = "Create Metal Wall Lvl 2",
+    MultiStageBuild_CreateMetalWall_1 = "Стварыць металічную сцяну ўзр. 1",
+    MultiStageBuild_UpgradeMetalWall_1To2 = "Палепшыць металічную сцяну да ўзр. 2",
+    MultiStageBuild_CreateMetalWall_2 = "Стварыць металічную сцяну ўзр. 2",
     -- Metal Window
-    MultiStageBuild_CreateMetalWindow_1 = "Create Metal Window Lvl 1",
-    MultiStageBuild_UpgradeMetalWindow_1To2 = "Upgrade to Metal Window Lvl 2",
-    MultiStageBuild_CreateMetalWindow_2 = "Create Metal Window Lvl 2",
+    MultiStageBuild_CreateMetalWindow_1 = "Стварыць металічнае акно ўзр. 1",
+    MultiStageBuild_UpgradeMetalWindow_1To2 = "Палепшыць металічнае акно да ўзр. 2",
+    MultiStageBuild_CreateMetalWindow_2 = "Стварыць металічнае акно ўзр. 2",
     -- wooden door frame
-    MultiStageBuild_UpgradeWoodenDoorFrame_1To2 = "Upgrade to Wooden Door Frame Lvl 2",
-    MultiStageBuild_UpgradeWoodenDoorFrame_2To3 = "Upgrade to Wooden Door Frame Lvl 3",
+    MultiStageBuild_UpgradeWoodenDoorFrame_1To2 = "Палепшыць драўляны дзвярны праём да ўзр. 2",
+    MultiStageBuild_UpgradeWoodenDoorFrame_2To3 = "Палепшыць драўляны дзвярны праём да ўзр. 3",
 }
 
