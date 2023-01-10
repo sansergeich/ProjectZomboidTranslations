@@ -1,28 +1,28 @@
 MultiStageBuild_BE = {
     -- Wooden Wall
-    MultiStageBuild_CreateWoodenWall_1 = "Стварыць драўляную сцяну ўзр. 1",
-    MultiStageBuild_UpgradeWoodenWall_1To2 = "Палепшыць драўляную сцяну да ўзр. 2",
-    MultiStageBuild_CreateWoodenWall_2 = "Стварыць драўляную сцяну ўзр. 2",
-    MultiStageBuild_UpgradeWoodenWall_1To3 = "Палепшыць драўляную сцяну да ўзр. 3",
-    MultiStageBuild_UpgradeWoodenWall_2To3 = "Палепшыць драўляную сцяну да ўзр. 3",
-    MultiStageBuild_CreateWoodenWall_3 = "Стварыць драўляную сцяну ўзр. 3",
+    MultiStageBuild_CreateWoodenWall_1 = "РЎС‚РІР°СЂС‹С†СЊ РґСЂР°СћР»СЏРЅСѓСЋ СЃС†СЏРЅСѓ СћР·СЂ. 1",
+    MultiStageBuild_UpgradeWoodenWall_1To2 = "РџР°Р»РµРїС€С‹С†СЊ РґСЂР°СћР»СЏРЅСѓСЋ СЃС†СЏРЅСѓ РґР° СћР·СЂ. 2",
+    MultiStageBuild_CreateWoodenWall_2 = "РЎС‚РІР°СЂС‹С†СЊ РґСЂР°СћР»СЏРЅСѓСЋ СЃС†СЏРЅСѓ СћР·СЂ. 2",
+    MultiStageBuild_UpgradeWoodenWall_1To3 = "РџР°Р»РµРїС€С‹С†СЊ РґСЂР°СћР»СЏРЅСѓСЋ СЃС†СЏРЅСѓ РґР° СћР·СЂ. 3",
+    MultiStageBuild_UpgradeWoodenWall_2To3 = "РџР°Р»РµРїС€С‹С†СЊ РґСЂР°СћР»СЏРЅСѓСЋ СЃС†СЏРЅСѓ РґР° СћР·СЂ. 3",
+    MultiStageBuild_CreateWoodenWall_3 = "РЎС‚РІР°СЂС‹С†СЊ РґСЂР°СћР»СЏРЅСѓСЋ СЃС†СЏРЅСѓ СћР·СЂ. 3",
     -- Wooden Window
-    MultiStageBuild_CreateWoodenWindow_1 = "Стварыць драўлянае акно ўзр. 1",
-    MultiStageBuild_UpgradeWoodenWindow_1To2 = "Палепшыць драўлянае акно да ўзр. 2",
-    MultiStageBuild_CreateWoodenWindow_2 = "Стварыць драўлянае акно ўзр. 2",
-    MultiStageBuild_UpgradeWoodenWindow_1To3 = "Палепшыць драўлянае акно да ўзр. 3",
-    MultiStageBuild_UpgradeWoodenWindow_2To3 = "Палепшыць драўлянае акно да ўзр. 3",
-    MultiStageBuild_CreateWoodenWindow_3 = "Стварыць драўлянае акно ўзр. 3",
+    MultiStageBuild_CreateWoodenWindow_1 = "РЎС‚РІР°СЂС‹С†СЊ РґСЂР°СћР»СЏРЅР°Рµ Р°РєРЅРѕ СћР·СЂ. 1",
+    MultiStageBuild_UpgradeWoodenWindow_1To2 = "РџР°Р»РµРїС€С‹С†СЊ РґСЂР°СћР»СЏРЅР°Рµ Р°РєРЅРѕ РґР° СћР·СЂ. 2",
+    MultiStageBuild_CreateWoodenWindow_2 = "РЎС‚РІР°СЂС‹С†СЊ РґСЂР°СћР»СЏРЅР°Рµ Р°РєРЅРѕ СћР·СЂ. 2",
+    MultiStageBuild_UpgradeWoodenWindow_1To3 = "РџР°Р»РµРїС€С‹С†СЊ РґСЂР°СћР»СЏРЅР°Рµ Р°РєРЅРѕ РґР° СћР·СЂ. 3",
+    MultiStageBuild_UpgradeWoodenWindow_2To3 = "РџР°Р»РµРїС€С‹С†СЊ РґСЂР°СћР»СЏРЅР°Рµ Р°РєРЅРѕ РґР° СћР·СЂ. 3",
+    MultiStageBuild_CreateWoodenWindow_3 = "РЎС‚РІР°СЂС‹С†СЊ РґСЂР°СћР»СЏРЅР°Рµ Р°РєРЅРѕ СћР·СЂ. 3",
     -- Metal Wall
-    MultiStageBuild_CreateMetalWall_1 = "Стварыць металічную сцяну ўзр. 1",
-    MultiStageBuild_UpgradeMetalWall_1To2 = "Палепшыць металічную сцяну да ўзр. 2",
-    MultiStageBuild_CreateMetalWall_2 = "Стварыць металічную сцяну ўзр. 2",
+    MultiStageBuild_CreateMetalWall_1 = "РЎС‚РІР°СЂС‹С†СЊ РјРµС‚Р°Р»С–С‡РЅСѓСЋ СЃС†СЏРЅСѓ СћР·СЂ. 1",
+    MultiStageBuild_UpgradeMetalWall_1To2 = "РџР°Р»РµРїС€С‹С†СЊ РјРµС‚Р°Р»С–С‡РЅСѓСЋ СЃС†СЏРЅСѓ РґР° СћР·СЂ. 2",
+    MultiStageBuild_CreateMetalWall_2 = "РЎС‚РІР°СЂС‹С†СЊ РјРµС‚Р°Р»С–С‡РЅСѓСЋ СЃС†СЏРЅСѓ СћР·СЂ. 2",
     -- Metal Window
-    MultiStageBuild_CreateMetalWindow_1 = "Стварыць металічнае акно ўзр. 1",
-    MultiStageBuild_UpgradeMetalWindow_1To2 = "Палепшыць металічнае акно да ўзр. 2",
-    MultiStageBuild_CreateMetalWindow_2 = "Стварыць металічнае акно ўзр. 2",
+    MultiStageBuild_CreateMetalWindow_1 = "РЎС‚РІР°СЂС‹С†СЊ РјРµС‚Р°Р»С–С‡РЅР°Рµ Р°РєРЅРѕ СћР·СЂ. 1",
+    MultiStageBuild_UpgradeMetalWindow_1To2 = "РџР°Р»РµРїС€С‹С†СЊ РјРµС‚Р°Р»С–С‡РЅР°Рµ Р°РєРЅРѕ РґР° СћР·СЂ. 2",
+    MultiStageBuild_CreateMetalWindow_2 = "РЎС‚РІР°СЂС‹С†СЊ РјРµС‚Р°Р»С–С‡РЅР°Рµ Р°РєРЅРѕ СћР·СЂ. 2",
     -- wooden door frame
-    MultiStageBuild_UpgradeWoodenDoorFrame_1To2 = "Палепшыць драўляны дзвярны праём да ўзр. 2",
-    MultiStageBuild_UpgradeWoodenDoorFrame_2To3 = "Палепшыць драўляны дзвярны праём да ўзр. 3",
+    MultiStageBuild_UpgradeWoodenDoorFrame_1To2 = "РџР°Р»РµРїС€С‹С†СЊ РґСЂР°СћР»СЏРЅС‹ РґР·РІСЏСЂРЅС‹ РїСЂР°С‘Рј РґР° СћР·СЂ. 2",
+    MultiStageBuild_UpgradeWoodenDoorFrame_2To3 = "РџР°Р»РµРїС€С‹С†СЊ РґСЂР°СћР»СЏРЅС‹ РґР·РІСЏСЂРЅС‹ РїСЂР°С‘Рј РґР° СћР·СЂ. 3",
 }
 
