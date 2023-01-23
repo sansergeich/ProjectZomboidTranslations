@@ -1,12 +1,12 @@
 Farming_BE = {
     -- vegetables name (type of seed)
-    Farming_Carrots = "Морква",
-    Farming_Broccoli = "Брокалі",
-    Farming_Radishes = "Радыска",
+    Farming_Carrots = "РњРѕСЂРєРІР°",
+    Farming_Broccoli = "Р‘СЂРѕРєР°Р»С–",
+    Farming_Radishes = "Р Р°РґС‹СЃРєР°",
     Farming_Strawberry_plant = "Strawberry plant",
     Farming_Tomato_Vine = "Tomato Vine",
-    Farming_Potatoes = "Бульба",
-    Farming_Cabbages = "Капуста",
+    Farming_Potatoes = "Р‘СѓР»СЊР±Р°",
+    Farming_Cabbages = "РљР°РїСѓСЃС‚Р°",
     -- growing phase
     Farming_Seedling = "Seedling",
     Farming_Young = "Young",
@@ -21,14 +21,14 @@ Farming_BE = {
     Farming_Ready_to_harvest = "Ready to harvest",
     -- farming info text
     -- title
-    Farming_Plant_Information = "Звесткі аб расліне",
+    Farming_Plant_Information = "Р—РІРµСЃС‚РєС– Р°Р± СЂР°СЃР»С–РЅРµ",
     Farming_Current_growing_phase = "Current growing phase",
     Farming_Next_growing_phase = "Next growing phase",
     Farming_Last_time_watered = "Last time watered",
     Farming_Fertilized = "Fertilized",
-    Farming_Health = "Здароўе",
+    Farming_Health = "Р—РґР°СЂРѕСћРµ",
     Farming_Disease = "Disease",
-    Farming_Water_levels = "Узровень вады",
+    Farming_Water_levels = "РЈР·СЂРѕРІРµРЅСЊ РІР°РґС‹",
     -- water
     Farming_Well_watered = "Well watered",
     Farming_Fine = "Fine",
@@ -40,11 +40,11 @@ Farming_BE = {
     Farming_Pest_Flies = "Pest Flies",
     Farming_Devil_Water_Fungi = "Devil's Water Fungi",
     -- hours
-    Farming_Hours = "Гадзін",
+    Farming_Hours = "Р“Р°РґР·С–РЅ",
     -- health
     Farming_Flourishing = "Flourishing",
     Farming_Verdant = "Verdant",
-    Farming_Healthy = "Здаровае",
+    Farming_Healthy = "Р—РґР°СЂРѕРІР°Рµ",
     Farming_Sickly = "Sickly",
     Farming_Stunted = "Stunted",
     Farming_Tooltip_MinWater = "Min Water: ",
@@ -61,7 +61,7 @@ Farming_BE = {
     Farming_Tooltip_FurrowHasSeeds = "Furrow already has seeds.",
     Farming_Tooltip_RequiredSeeds = "Required seeds: ",
     Farming_Strawberry plant = "Strawberry plant",
-    Farming_Tomato = "Памідор",
+    Farming_Tomato = "РџР°РјС–РґРѕСЂ",
     Farming_Plowed_Land = "Plowed Land",
-    Farming_MissingItem = "Вам трэба %1",
+    Farming_MissingItem = "Р’Р°Рј С‚СЂСЌР±Р° %1",
 }
