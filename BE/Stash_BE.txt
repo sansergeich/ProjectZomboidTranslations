@@ -27,7 +27,7 @@ Stash_BE = {
     Stash_LVMap5_Text4 = "all around the gym here",
     Stash_LVMap5_Text5 = "don't go anywhere at night!",
 
-    Stash_LVMap6_Text1 = "NO PLACE LIKE HOME!",
+    Stash_LVMap6_Text1 = "NIAMA MIESCA LIEPŠAHA, ČYM DOMA!",
 
     Stash_LVMap7_Text1 = "Дзякуй за маё забойства",
     Stash_LVMap7_Text2 = "Гэта была маім домам",
@@ -48,7 +48,7 @@ Stash_BE = {
     Stash_LVMap10_Text4 = "horde with you this time!",
 
     Stash_LVMap11_Text1 = "nierazrabavanaja krama",
-    Stash_LVMap11_Text2 = "full of zombies though",
+    Stash_LVMap11_Text2 = "poŭnaja zombi, darečy",
     Stash_LVMap11_Text3 = "storage units",
     Stash_LVMap11_Text4 = "LV General",
 
@@ -58,8 +58,8 @@ Stash_BE = {
     Stash_LVMap12_Text4 = "sinsilla buduć prosta",
     Stash_LVMap12_Text5 = "achujennymi ŭŭŭŭchuuuuu!!!",
 
-    Stash_LVMap13_Text1 = "good secure houses",
-    Stash_LVMap13_Text2 = "but be careful clearing the backyards",
+    Stash_LVMap13_Text1 = "dobryja biaspiečnyja chaty",
+    Stash_LVMap13_Text2 = "alie asciarožna pry zaćystcy zadnich dvaroŭ",
     Stash_LVMap13_Text3 = "working car here",
 
     Stash_LVMap14_Text1 = "zabarykaduj doškami, jakija ja prynies tabie",
@@ -170,7 +170,7 @@ Stash_MulMap18_Text12 = "hope all his guns still there",
     Stash_WpMap11_Text3 = "gonna avoid anywhere near home - don't look for me here",
     Stash_WpMap12_Text1 = "everyone made it into the office the day the fever struck",
     Stash_WpMap12_Text11 = "I boarded them in before they turned",
-    Stash_WpMap12_Text2 = "gun store",
+    Stash_WpMap12_Text2 = "zbroevaja krama",
     Stash_WpMap12_Text3 = "Black Friday kinda crowds",
 
     Stash_WpMap13_Text1 = "zabita drabavikom: 12",
